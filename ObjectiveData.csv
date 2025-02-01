@@ -1,0 +1,67 @@
+int,Textkey,Textkey,-,ObjectiveType,string,string
+id,textkey,textkeyplural,_designInfo,objectiveType,param1,param2
+0,OBJECTIVE_3,OBJECTIVE_3,Movimiento,MoveCamera,,
+1,OBJECTIVE_4,OBJECTIVE_4,Movimiento,RotateCamera,,
+2,OBJECTIVE_5,OBJECTIVE_5,Movimiento,ZoomInOut,,
+3,OBJECTIVE_49,OBJECTIVE_49,Puertas de la ciudad,BuildBuilding,TradingPost,1
+4,OBJECTIVE_46_S,OBJECTIVE_46_P,Casas,BuildBuildingWithRoad,HousingMeta,4
+5,OBJECTIVE_0,OBJECTIVE_0,Casas,ReachingPlebeianPopulation,5,
+6,OBJECTIVE_47,OBJECTIVE_47,Mantenimieno e incendios,BuildBuildingWithRoadAndFireInArea,FireStation,
+7,OBJECTIVE_46_S,OBJECTIVE_46_P,Mantenimieno e incendios,BuildBuildingWithRoad,MaintenanceBuilding,1
+9,OBJECTIVE_28_S,OBJECTIVE_28_P,Asignación de trabajadores,AssignWorkerTo,FireStation,2
+140,OBJECTIVE_28_S,OBJECTIVE_28_P,Asignación de trabajadores,AssignWorkerTo,MaintenanceBuilding,2
+129,OBJECTIVE_50,OBJECTIVE_50,Agua,BuildBuilding,Watermill,1
+135,OBJECTIVE_48,OBJECTIVE_48,Agua,BuildBuilding,Reservoir,1
+139,OBJECTIVE_53,OBJECTIVE_53,Agua,BuildBuildingWithRoadAndFireInAreaAndWater,FireStation,
+10,OBJECTIVE_7,OBJECTIVE_7,Agua,ExtinguishFire,,
+11,OBJECTIVE_6,OBJECTIVE_6,Generació de recursos,BuildBuilding,WoodExtraction,1
+12,OBJECTIVE_6,OBJECTIVE_6,Generació de recursos,BuildBuilding,StoneExtraction,1
+13,OBJECTIVE_8,OBJECTIVE_8,Generació de recursos,BuildingGivingInfluenceTo,ResourcesWarehouse,WoodExtraction
+14,OBJECTIVE_8,OBJECTIVE_8,Generació de recursos,BuildingGivingInfluenceTo,ResourcesWarehouse,StoneExtraction
+130,OBJECTIVE_45,OBJECTIVE_45,TopBar info,AssignWorkerTo,WoodExtraction,2
+131,OBJECTIVE_45,OBJECTIVE_45,TopBar info,AssignWorkerTo,StoneExtraction,2
+132,OBJECTIVE_45,OBJECTIVE_45,TopBar info,AssignWorkerTo,ResourcesWarehouse,2
+133,OBJECTIVE_52,OBJECTIVE_52,TopBar info,ReachingPlebeianPopulation,20,
+16,OBJECTIVE_6,OBJECTIVE_6,Comida,BuildBuilding,OrchardWheat,1
+17,OBJECTIVE_8,OBJECTIVE_8,Comida,BuildingGivingInfluenceTo,FoodWarehouse,OrchardWheat
+20,OBJECTIVE_59,OBJECTIVE_59,Comida,GenerateResource,Cereal,30
+138,OBJECTIVE_54,OBJECTIVE_54,Mercado,BuildMarket,,
+137,OBJECTIVE_45,OBJECTIVE_45,Mercado,AssignWorkerTo,RomanMarket,2
+33,OBJECTIVE_6,OBJECTIVE_6,Tuto 11,BuildBuilding,HousingMetaElite,4
+136,OBJECTIVE_6,OBJECTIVE_6,Tuto 6,BuildBuilding,CityHall,1
+34,OBJECTIVE_0,OBJECTIVE_0,Tuto 11,ReachingPlebeianPopulation,30,
+35,OBJECTIVE_1,OBJECTIVE_1,Tuto 11,ReachingPatricianPopulation,10,
+23,OBJECTIVE_0,OBJECTIVE_0,Prestigio,ReachingPlebeianPopulation,40,
+144,OBJECTIVE_1,OBJECTIVE_1,Prestigio,ReachingPatricianPopulation,15,
+24,OBJECTIVE_10,OBJECTIVE_10,Prestigio,ReachCertainPrestige,3,
+141,OBJECTIVE_55,OBJECTIVE_55,Exploración,VisitingMap,,
+25,OBJECTIVE_11,OBJECTIVE_11,Exploración,DiscoverCertainTown,Vettona,
+143,OBJECTIVE_58,OBJECTIVE_58,Rutas Comerciales,BuyByCommercialRoute,Marble,75
+134,OBJECTIVE_10,OBJECTIVE_10,Alcanza el prestigio {0},ReachCertainPrestige,2,
+29,OBJECTIVE_6,OBJECTIVE_6,Tuto 10,BuildBuilding,WoodRefinery,1
+31,OBJECTIVE_62,OBJECTIVE_62,Tuto 10,GenerateResource,Plank,20
+38,OBJECTIVE_6,OBJECTIVE_6,Tuto 12,BuildBuilding,BathHouse,1
+39,OBJECTIVE_6,OBJECTIVE_6,Tuto 12,BuildBuilding,Tavern,1
+40,OBJECTIVE_9_GENERATE,OBJECTIVE_9_GENERATE,Tuto 12,GenerateResource,Wine,5
+41,OBJECTIVE_16,OBJECTIVE_16,Tuto 13,EvolvesPlebeianHouse,2,3
+42,OBJECTIVE_0,OBJECTIVE_0,Tuto 13,ReachingPlebeianPopulation,60,
+43,OBJECTIVE_1,OBJECTIVE_1,Tuto 13,ReachingPatricianPopulation,15,
+146,OBJECTIVE_10,OBJECTIVE_10,Religión,ReachCertainPrestige,3,
+44,OBJECTIVE_44_S,OBJECTIVE_44_P,Religión,BuildTemples,2,
+76,OBJECTIVE_34,OBJECTIVE_34,Dioses,VisitingOlympus,,
+145,OBJECTIVE_10,OBJECTIVE_10,Castigos y Bendiciones,ReachCertainPrestige,4,
+47,OBJECTIVE_60,OBJECTIVE_60,Castigos y Bendiciones,InvokeCeres,,
+148,OBJECTIVE_61,OBJECTIVE_61,Armamento,GenerateResource,Iron,10
+62,OBJECTIVE_6,OBJECTIVE_6,Armamento,BuildBuilding,BlacksmithArmor,1
+63,OBJECTIVE_6,OBJECTIVE_6,Armamento,BuildBuilding,BlacksmithBow,1
+64,OBJECTIVE_62,OBJECTIVE_62,Armamento,GenerateResource,Armor,10
+65,OBJECTIVE_62,OBJECTIVE_62,Armamento,GenerateResource,Bow,10
+66,OBJECTIVE_6,OBJECTIVE_6,Entrenamiento,BuildBuilding,Barrack,1
+67,OBJECTIVE_6,OBJECTIVE_6,Entrenamiento,BuildBuilding,ArcheryTraining,1
+68,OBJECTIVE_26,OBJECTIVE_26,Entrenamiento,TrainingCertainSoldiers,MilitaryArcher,10
+72,OBJECTIVE_31_S,OBJECTIVE_31_S,Enviar tropas al mapa,SendArchersToLegion,10,
+49,OBJECTIVE_19,OBJECTIVE_19,Iniciar Combate,SendLegionToBattle,1,
+147,OBJECTIVE_10,OBJECTIVE_10,Inicio Misión 3,ReachCertainPrestige,4,
+86,OBJECTIVE_6,OBJECTIVE_6,Ataques y Defensa,BuildBuilding,GuardPost,1
+88,OBJECTIVE_45,OBJECTIVE_45,Ataques y Defensa,AssignWorkerTo,GuardPost,3
+153,OBJECTIVE_45,OBJECTIVE_45,Ataques y Defensa,AssignWorkerTo,GuardPost,3

@@ -1,0 +1,8 @@
+int,int,,int,int,,ResourceType,int,,ResourceType,int,,InfluenceType,,int,none
+level,population,,taxes_MIN,taxes_MAX,,resources1Requeriment,resource1Consumption,,resources2Requeriment,resource2Consumption,,influenceRequirement,,desirabilityRequirement,
+1,5,,20,30,,Cabbage,20,,Melon,20,,Water,,2,
+2,8,,35,50,,Bread,10,,RationFish,10,,BathHouse,,5,
+3,12,,50,65,,Egg,10,,Milk,10,,Theatre,,8,
+4,15,,65,90,,RationMeat,10,,Grape,20,,MedicalCenter,,11,
+5,20,,80,105,,Cloth,15,4,Wine,15,,Circus,,14,
+6,30,,90,130,,Furniture,10,,None,0,,ChariotRacing,,20,

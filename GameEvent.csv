@@ -1,0 +1,64 @@
+GameEventType,bool,bool,int,Textkey,Textkey,-,-,bool,bool,bool,bool
+GameEventType,enabled,positive,minTime,textkey,textkeyPlural,_text,_DesignInfo,avoidApilation,timer,specialEvent,goldenFrame
+Fire,TRUE,FALSE,0,EVENT_1_S,EVENT_1_P,Se ha producido {0} incendio,se iniciado un incendio,FALSE,TRUE,FALSE,FALSE
+SickDeath,TRUE,FALSE,0,EVENT_2_S,EVENT_2_P,Ha fallecido {0} ciudadano por enfermedad,Ciudadanos muriendo,FALSE,TRUE,FALSE,FALSE
+NoFoodDeath,TRUE,FALSE,0,EVENT_37_S,EVENT_37_P,Ha fallecido {0} ciudadano por falta de comida,,FALSE,TRUE,FALSE,FALSE
+BuildingCollapse,TRUE,FALSE,0,EVENT_3_S,EVENT_3_P,Ha colapsado {0} edificio ,edificio colapsa,FALSE,TRUE,FALSE,FALSE
+PeopleLeavingWithoutWork,TRUE,FALSE,70,EVENT_0,EVENT_0,Algunos habitantes están abandonando la ciudad por falta de trabajo,Se va gente,FALSE,TRUE,FALSE,FALSE
+PeopleLeavingWithoutHouse,TRUE,FALSE,60,EVENT_26,EVENT_26,Algunos habitantes están abandonando la ciudad por no tene vivienda,Se va gente,FALSE,TRUE,FALSE,FALSE
+NewlyArrivedPlebs,TRUE,TRUE,0,EVENT_4,EVENT_4,Han llegado los primeros plebeyos a la ciudad,llegada de primeros pobladores de plebeyos,FALSE,TRUE,FALSE,FALSE
+NewlyArrivedPatricians,FALSE,TRUE,0,EVENT_5,EVENT_5,Han llegado los primeros patricios a la ciudad,llegada de primeros pobladores de patricios,FALSE,TRUE,FALSE,FALSE
+NewlyArrivedSoldiers,FALSE,TRUE,0,EVENT_6,EVENT_6,Han llegado los primeros aspirantes a soldado a la ciudad,llegada de primeros pobladores de soldados,FALSE,TRUE,FALSE,FALSE
+FestivalApolo,TRUE,TRUE,0,EVENT_9,EVENT_9,Se está celebrando un festival en honor a Apolo,festival en marcha para apolo,FALSE,TRUE,TRUE,TRUE
+FestivalMarte,TRUE,TRUE,0,EVENT_10,EVENT_10,Se está celebrando un festival en honor a Marte,festival en marcha Marte,FALSE,TRUE,TRUE,TRUE
+FestivalCeres,TRUE,TRUE,0,EVENT_11,EVENT_11,Se está celebrando un festival en honor a Ceres,festival en marcha Ceres,FALSE,TRUE,TRUE,TRUE
+FestivalMinerva,TRUE,TRUE,0,EVENT_12,EVENT_12,Se está celebrando un festival en honor a Minerva,festival en marcha Minerva,FALSE,TRUE,TRUE,TRUE
+FestivalPluton,TRUE,TRUE,0,EVENT_13,EVENT_13,Se está celebrando un festival en honor a Plutón,festival en marcha Plutón,FALSE,TRUE,TRUE,TRUE
+FestivalJupiter,TRUE,TRUE,0,EVENT_14,EVENT_14,Se está celebrando un festival en honor a Júpiter,festival en marcha Júpiter,FALSE,TRUE,TRUE,TRUE
+Racing,TRUE,TRUE,0,EVENT_15_S,EVENT_15_P,Se está realizando {0} carrera de cuadrigas,carrera en marcha,FALSE,TRUE,TRUE,TRUE
+Theater,TRUE,TRUE,0,EVENT_16_S,EVENT_16_P,Se está representando {0} obra de teatro,teatro en marcha,FALSE,TRUE,TRUE,TRUE
+Gladiators,TRUE,TRUE,0,EVENT_17_S,EVENT_17_P,Se está realizando {0} batalla de gladiadores,gladiadores en marcha,FALSE,TRUE,TRUE,TRUE
+DailyReport,FALSE,TRUE,0,EVENT_18,EVENT_18,Informe diario,Informe de final de día,FALSE,TRUE,FALSE,FALSE
+Assault1,FALSE,FALSE,0,EVENT_19_S,EVENT_19_P,Has sufrido {0} ataque por parte del enemigo,asalto enemigo,FALSE,FALSE,FALSE,FALSE
+Assault2,FALSE,FALSE,0,EVENT_19_S,EVENT_19_P,Has sufrido {0} ataque por parte del enemigo,asalto enemigo,FALSE,FALSE,FALSE,FALSE
+Assault3,FALSE,FALSE,0,EVENT_19_S,EVENT_19_P,Has sufrido {0} ataque por parte del enemigo,asalto enemigo,FALSE,FALSE,FALSE,FALSE
+Murder,TRUE,FALSE,0,EVENT_20_S,EVENT_20_P,Ha habido {0} asesinato,asesinato,FALSE,TRUE,FALSE,FALSE
+Theft,TRUE,FALSE,0,EVENT_21_S,EVENT_21_P,Ha habido {0} robo,robo,FALSE,TRUE,FALSE,FALSE
+FireRiot,TRUE,FALSE,0,EVENT_22_S,EVENT_22_P,Ha habido {0} incendio provocado por los disturbios,ciudadanos incendian por cabreo edificios,FALSE,TRUE,FALSE,FALSE
+DiscoveredCity,TRUE,TRUE,0,EVENT_23_S,EVENT_23_P,Has descubierto {0} ciudad nueva,territorio descubierto con ciudad,FALSE,TRUE,FALSE,FALSE
+RelicDiscovered,TRUE,TRUE,0,EVENT_8_S,EVENT_8_P,Se ha descubierto {0} reliquia,territorio descubierto con reliquia descubierta.,FALSE,FALSE,FALSE,TRUE
+DiscoveredTerritory,TRUE,TRUE,0,EVENT_7_S,EVENT_7_P,Se ha decubierto {0} nuevo territorio,territorio descubierto,FALSE,TRUE,FALSE,FALSE
+EnemyFound,TRUE,TRUE,0,EVENT_25_S,EVENT_25_P,Explorando un nuevo territorio has descubiert {0} nuevo enemigo,"territorio descubierto con enemigo, no muere explorador",FALSE,TRUE,FALSE,FALSE
+DeadExplorer,TRUE,FALSE,0,EVENT_24_S,EVENT_24_P,Explorando nuevos territorios ha muerto {0} explorador,"territorio descubierto con enemigo, muere explorador",FALSE,TRUE,FALSE,FALSE
+UpgradePrestigeTown,FALSE,TRUE,0,EVENT_27,EVENT_27,Tu asentamiento ha alcanzado el grado de pueblo,Cada vez que el jugador suba de presitgio,FALSE,TRUE,FALSE,TRUE
+UpgradePrestigeCity,FALSE,TRUE,0,EVENT_37,EVENT_37,Tu asentamiento ha alcanzado el grado de pueblo,,FALSE,TRUE,FALSE,TRUE
+PlebeianNeeds,FALSE,FALSE,120,EVENT_29,EVENT_29,Algunas las necesidades de los plebeyos no se están cubriendo,Cuando lleven un tiempo que alguna de las necesidades de los plebayos no se estén curbiendo,FALSE,TRUE,FALSE,FALSE
+PatricianNeeds,FALSE,FALSE,120,EVENT_29,EVENT_29,Algunas las necesidades de los patricios no se están cubriendo,Cuando lleven un tiempo que alguna de las necesidades de los patricios no se estén curbiendo,FALSE,TRUE,FALSE,FALSE
+NewRecruits,FALSE,TRUE,60,EVENT_31,EVENT_31,Hay algunos nuevos reclutas para ser entrenados,cuando haya más de 1 recluta soldado sin estar asignado a ningún entrenamiento,FALSE,TRUE,FALSE,FALSE
+SoldiersReady,TRUE,TRUE,0,EVENT_32,EVENT_32,Tienes algunos soldados entrenados y preparados,cuando haya más de 1 soldado con su entrenameinto completado,TRUE,TRUE,FALSE,FALSE
+CityGatesFull,FALSE,FALSE,60,EVENT_33,EVENT_33,"Las puertas de la ciudad están repletas de recursos, necesitas vaciarlas para poder seguir comerciando",Cuando el stock de la CityGates esté al 100%,FALSE,TRUE,FALSE,FALSE
+QuitWorkNoHome,FALSE,FALSE,0,EVENT_34,EVENT_34,"Un edificio se ha quedado sin trabajadores, ya que estos ya no tienen vivienda",Cuando un edificio se ha quedado sin trabajadores porque estos han perdido su casa y han dejado el trabajo.,FALSE,TRUE,FALSE,FALSE
+NotEnoughResources,FALSE,FALSE,60,EVENT_35,EVENT_35,No has podido vender toda la cantidad de {0} porque no tienes existencias suficientes en tu asentamiento.,Cuando no tengas suficientes recursos para realizar las tranasacciones de venta de cualquier ruta comercial,FALSE,TRUE,FALSE,FALSE
+NotEnoughDenarii,FALSE,FALSE,60,EVENT_36,EVENT_36,No has podido comprar todos los recursos de las rutas comerciales porque no tienes suficiente cantidad de Denarii,Cuando no tengas suficiente dinero como para realizar la compra de cualquier ruta comercial,FALSE,TRUE,FALSE,FALSE
+PlebsHouseUpgrading,FALSE,TRUE,60,EVENT_38,EVENT_38,Han subido de nivel unas viviendas de plebeyos,,FALSE,TRUE,FALSE,FALSE
+PatriciansHouseUpgrading,FALSE,TRUE,60,EVENT_38,EVENT_38,Han subido de nivel unas viviendas de patricios,,FALSE,TRUE,FALSE,FALSE
+PlebsHouseDowngrading,TRUE,FALSE,65,EVENT_41,EVENT_41,Han bajado de nivel unas viviendas de plebeyos,,FALSE,TRUE,FALSE,FALSE
+PatriciansHouseDowngrading,TRUE,FALSE,63,EVENT_41,EVENT_41,Han bajado de nivel unas viviendas de patricios,,FALSE,TRUE,FALSE,FALSE
+JupiterPunishment,TRUE,FALSE,0,EVENT_42,EVENT_42,Júpiter se ha enfadado y va a destruir alguno de tus edificios,,FALSE,FALSE,TRUE,FALSE
+JupiterBlessing,TRUE,TRUE,0,EVENT_43,EVENT_43,Júpiter honrará a tus ciudadanos con su presencia y subirá el favor del pueblo,,FALSE,FALSE,TRUE,TRUE
+PlutoPunishment,TRUE,FALSE,0,EVENT_44,EVENT_44,Plutón ha bajado a tu ciudad enfadado a robarte vino y denarios,,FALSE,FALSE,TRUE,FALSE
+PlutoBlessing,TRUE,TRUE,0,EVENT_45,EVENT_45,Plutón está contento contigo por lo que te entregará vino y denarios,,FALSE,FALSE,TRUE,TRUE
+CeresPunishment,TRUE,FALSE,0,EVENT_46,EVENT_46,Ceres se ha enfadado y está dispuesta a echar a perder parte tus cosechas y granjas,,FALSE,FALSE,TRUE,FALSE
+CeresBlessing,TRUE,TRUE,0,EVENT_47,EVENT_47,Ceres está contenta contigo y hará que tus cultivos generen más recursos durante un tiempo,,FALSE,FALSE,TRUE,TRUE
+MarsPunishment,TRUE,FALSE,0,EVENT_48,EVENT_48,Marte está enfadado contigo y destruirá algunos edificios militares,,FALSE,FALSE,TRUE,FALSE
+MarsBlessing,TRUE,TRUE,0,EVENT_49,EVENT_49,Marte está contento contigo y hará que tus soldados entrenen más rápido durante un tiempo,,FALSE,FALSE,TRUE,TRUE
+ApolloPunishment,TRUE,FALSE,0,EVENT_50,EVENT_50,Apolo está enfadado y robará alimentos de algunas casas,,FALSE,FALSE,TRUE,FALSE
+ApolloBlessing,TRUE,TRUE,0,EVENT_51,EVENT_51,Apolo está contento y llenará de comida las reservas de todas tus casas,,FALSE,FALSE,TRUE,TRUE
+MinervaPunishment,TRUE,FALSE,0,EVENT_52,EVENT_52,Minerva está enfadada y destruirá algunos almacénes de materiales,,FALSE,FALSE,TRUE,FALSE
+MinervaBlessing,TRUE,TRUE,0,EVENT_53,EVENT_53,Minerva está contenta por lo que te entregará madera y piedra para que puedas seguir construyendo,,FALSE,FALSE,TRUE,TRUE
+TimeWithoutFestival,TRUE,FALSE,500,EVENT_54,EVENT_54,El pueblo necesita celebrar algún festival en honor a los dioses,,FALSE,TRUE,FALSE,FALSE
+TimeWithoutEntertainment,TRUE,FALSE,400,EVENT_55,EVENT_55,"El pueblo se aburre, necesita que se celebre algún evento de entretenimiento",,FALSE,TRUE,FALSE,FALSE
+AttackReport,TRUE,FALSE,0,EVENT_56,EVENT_56,Tu ciudad ha recibido un ataque por parte del enemigo.,,FALSE,TRUE,FALSE,FALSE
+DeadGuard,FALSE,FALSE,0,EVENT_57,EVENT_57,Ha muerto un guardia,,FALSE,TRUE,FALSE,FALSE
+PatriciansLeavingNoFestivals,TRUE,FALSE,72,EVENT_58,EVENT_58,Los patricios se están marchando en busca de asentamientos donde celebren festivales religiosos,,FALSE,TRUE,FALSE,FALSE
+PatriciansLeavingNoEntertainment,TRUE,FALSE,76,EVENT_59,EVENT_59,Los patricios se están marchando a asentamientos donde no falte el entretenimiento,,FALSE,TRUE,FALSE,FALSE

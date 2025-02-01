@@ -1,0 +1,117 @@
+BuildableType,Textkey,Textkey,,int,none,int,int,int,int,int,int,none,int,none,int,none,-,int,InfluenceType,int,none,int,,int,ResourceType_array,,int,ResourceType_array,none,none,ResourceType,int,none,int,int,,int,,GodType,,bool
+BuildableType,name,description,,unlockInPrestige,,costDenarii,woodCost,plankCost,stoneCost,brickCost,ironCost,,staffCapacity,,usersCapacity,,UPGRADES_NOTES,influenceExtension,influenceType,treeRemoveExtension,,desirability,,stockInCapacity,stockInResources,,stockOutCapacity,stockOutResource,,,consumeResource,consumeResourceAmount,,secondsPerCycle,produceUnit,,fireProbability,,associatedGod,,isEnemyTarget
+RuralRoad,BUILDABLE_NAME_104,BUILDABLE_DESC_104,,1,,10,0,0,0,0,0,,0,,0,,,0,None,0,,0,,0,,,0,,,,None,0,,0,0,,0,,None,,FALSE
+PavementRoad,BUILDABLE_NAME_105,BUILDABLE_DESC_105,,3,,12,0,0,1,0,0,,0,,0,,,0,None,0,,0,,0,,,0,,,,None,0,,0,0,,0,,None,,FALSE
+PremiumRoad,BUILDABLE_NAME_106,BUILDABLE_DESC_106,,6,,15,0,0,0,1,0,,0,,0,,,0,None,0,,0,,0,,,0,,,,None,0,,0,0,,0,,None,,FALSE
+PavementPlot,BUILDABLE_NAME_107,BUILDABLE_DESC_107,,3,,12,0,0,1,0,0,,0,,0,,,0,None,0,,0,,0,,,0,,,,None,0,,0,0,,0,,None,,FALSE
+PremiumPlot,BUILDABLE_NAME_108,BUILDABLE_DESC_108,,6,,15,0,0,0,1,0,,0,,0,,,0,None,0,,0,,0,,,0,,,,None,0,,0,0,,0,,None,,FALSE
+Bridge,BUILDABLE_NAME_89,BUILDABLE_DESC_89,,3,,40,15,0,0,0,0,,0,,0,,,0,None,0,,0,,0,,,0,,,,None,0,,0,0,,0,,None,,FALSE
+Well,BUILDABLE_NAME_0,BUILDABLE_DESC_0,,1,,100,5,0,35,0,0,,0,,0,,Más bonito,1,Water,0,,0,,0,,,0,,,,None,0,,0,0,,0,,None,,FALSE
+Watermill,BUILDABLE_NAME_1,BUILDABLE_DESC_1,,1,,160,20,0,40,0,0,,0,,0,,Más bonito,0,None,0,,0,,0,,,0,,,,None,0,,0,0,,0,,None,,FALSE
+Aqueduct,BUILDABLE_NAME_2,BUILDABLE_DESC_2,,1,,10,0,0,2,0,0,,0,,0,,Más bonito,0,None,0,,0,,0,,,0,,,,None,0,,0,0,,0,,None,,FALSE
+Reservoir,BUILDABLE_NAME_3,BUILDABLE_DESC_3,,1,,60,15,0,35,0,0,,0,,0,,,16,Water,0,,0,,0,,,0,,,,None,0,,0,0,,0,,None,,FALSE
+HousingMeta,BUILDABLE_NAME_4,BUILDABLE_DESC_4,,1,,80,40,0,30,0,0,,0,,7,,Más population,0,None,0,,0,,0,,,0,,,,None,0,,0,0,,5,,None,,TRUE
+HousingMetaElite,BUILDABLE_NAME_101,BUILDABLE_DESC_101,,2,,160,50,0,50,0,0,,0,,4,,,0,None,0,,0,,0,,,0,,,,None,0,,0,0,,5,,None,,TRUE
+MaintenanceBuilding,BUILDABLE_NAME_5,BUILDABLE_DESC_5,,1,,70,30,0,20,0,0,,4,,0,,Más frecuencia de mantenimiento,16,MaintenanceBuilding,0,,0,,0,,,0,,,,None,0,,0,0,,0,,None,,TRUE
+FireStation,BUILDABLE_NAME_90,BUILDABLE_DESC_90,,1,,80,40,0,35,0,0,,4,,0,,,16,FireStation,0,,0,,0,,,0,,,,None,0,,0,0,,0,,None,,FALSE
+CityHall,BUILDABLE_NAME_6,BUILDABLE_DESC_6,,2,,180,55,0,75,0,0,,4,,0,,Más capacidad de recaudar impuestos,10,CityHall,0,,0,,0,,,0,,,,None,0,,0,0,,2,,None,,TRUE
+RomanMarket,BUILDABLE_NAME_7,BUILDABLE_DESC_7,,1,,130,30,0,15,0,0,,4,,0,,Más stock,10,RomanMarket,0,,0,,0,,,0,,,,None,0,,0,0,,3,,None,,TRUE
+BathHouse,BUILDABLE_NAME_8,BUILDABLE_DESC_8,,2,,240,0,30,0,40,0,,0,,16,,Más frecuencia de subir salud,16,BathHouse,0,,0,,0,,,0,,,,None,0,,0,0,,1,,None,,TRUE
+MedicalCenter,BUILDABLE_NAME_9,BUILDABLE_DESC_9,,3,,150,0,20,0,30,0,,4,,4,,Más frecuencia de subir salud,16,MedicalCenter,0,,0,,0,,,0,,,,Herb,1,,25,0,,3,,None,,TRUE
+ActorColony,BUILDABLE_NAME_11,BUILDABLE_DESC_11,,4,,220,0,25,0,35,0,,4,,0,,Más bonito,4,None,0,,0,,0,,,0,,,,None,0,,0,0,,4,,None,,TRUE
+Theatre,BUILDABLE_NAME_12,BUILDABLE_DESC_12,,4,,350,0,80,0,130,0,,0,,16,,Más entretenimiento,24,Theatre,0,,0,,0,,,0,,,,None,0,,0,0,,3,,None,,FALSE
+GladiatorTraining,BUILDABLE_NAME_13,BUILDABLE_DESC_13,,6,,260,0,0,0,50,0,,4,,0,,Más bonito,4,None,0,,-4,,0,,,0,,,,None,0,,0,0,,4,,None,,FALSE
+Circus,BUILDABLE_NAME_14,BUILDABLE_DESC_14,,6,,500,0,100,0,160,0,,0,,80,,Más entretenimiento,24,Circus,0,,0,,0,,,0,,,,None,0,,0,0,,2,,None,,FALSE
+Tavern,BUILDABLE_NAME_15,BUILDABLE_DESC_15,,2,,260,50,0,70,0,0,,0,,16,,Más entretenimiento,16,Tavern,0,,0,,0,,,0,,,,Wine,1,,25,0,,4,,None,,TRUE
+Tribune,BUILDABLE_NAME_16,BUILDABLE_DESC_16,,6,,220,0,30,0,90,0,,0,,0,,Más bonito,16,Tribune,0,,0,,0,,,0,,,,None,0,,0,0,,0,,None,,FALSE
+Library,BUILDABLE_NAME_17,BUILDABLE_DESC_17,,6,,180,0,50,0,70,0,,0,,4,,Más bonito,16,Library,0,,0,,0,,,0,,,,None,0,,0,0,,4,,None,,TRUE
+School,BUILDABLE_NAME_18,BUILDABLE_DESC_18,,4,,230,40,0,0,25,0,,0,,8,,Más bonito,16,School,0,,0,,0,,,0,,,,None,0,,0,0,,4,,None,,TRUE
+ChariotRacing,BUILDABLE_NAME_102,BUILDABLE_DESC_102,,7,,750,0,100,0,180,0,,0,0,155,,,24,ChariotRacing,0,,0,,0,,,0,,,,None,0,,0,0,,2,,None,,FALSE
+ChariotTraining,BUILDABLE_NAME_103,BUILDABLE_DESC_103,,7,,200,0,25,0,35,0,,4,4,0,,,4,None,0,,-4,,0,,,0,,,,None,0,,0,0,,4,,None,,TRUE
+TempleApolo,BUILDABLE_NAME_19,BUILDABLE_DESC_19,,3,,280,0,0,0,40,0,,0,,8,,Más bonito,16,TempleApolo,0,,0,,0,,,0,,,,None,0,,0,0,,3,,Apolo,,TRUE
+TempleMinerva,BUILDABLE_NAME_20,BUILDABLE_DESC_20,,3,,280,0,0,0,40,0,,0,,8,,Más bonito,16,TempleMinerva,0,,0,,0,,,0,,,,None,0,,0,0,,3,,Minerva,,TRUE
+TempleCeres,BUILDABLE_NAME_21,BUILDABLE_DESC_21,,3,,280,0,0,0,40,0,,0,,8,,Más bonito,16,TempleCeres,0,,0,,0,,,0,,,,None,0,,0,0,,3,,Ceres,,TRUE
+TempleMarte,BUILDABLE_NAME_22,BUILDABLE_DESC_22,,3,,280,0,0,0,40,0,,0,,8,,Más bonito,16,TempleMarte,0,,0,,0,,,0,,,,None,0,,0,0,,3,,Marte,,TRUE
+TempleJupiter,BUILDABLE_NAME_23,BUILDABLE_DESC_23,,3,,280,0,0,0,40,0,,0,,8,,Más bonito,16,TempleJupiter,0,,0,,0,,,0,,,,None,0,,0,0,,3,,Jupiter,,TRUE
+TemplePluton,BUILDABLE_NAME_24,BUILDABLE_DESC_24,,3,,280,0,0,0,40,0,,0,,8,,Más bonito,16,TemplePluton,0,,0,,0,,,0,,,,None,0,,0,0,,3,,Pluton,,TRUE
+OrchardWheat,BUILDABLE_NAME_26,BUILDABLE_DESC_26,,1,,40,15,0,0,0,0,,4,,0,,,4,None,0,,-2,,0,,,80,Cereal,,,None,0,,50,12,,1,,None,,TRUE
+OrchardFlax,BUILDABLE_NAME_27,BUILDABLE_DESC_27,,4,,80,15,0,0,0,0,,4,,0,,,4,None,0,,-2,,0,,,80,Linen,,,None,0,,50,8,,1,,None,,TRUE
+OrchardCarrot,BUILDABLE_NAME_28,BUILDABLE_DESC_28,,2,,50,15,0,0,0,0,,4,,0,,,4,None,0,,-2,,0,,,80,Carrot,,,None,0,,50,8,,1,,None,,TRUE
+OrchardGrape,BUILDABLE_NAME_29,BUILDABLE_DESC_29,,2,,50,15,0,0,0,0,,4,,0,,,4,None,0,,-2,,0,,,80,Grape,,,None,0,,50,8,,1,,None,,TRUE
+OrchardOnion,BUILDABLE_NAME_30,BUILDABLE_DESC_30,,2,,50,15,0,0,0,0,,4,,0,,,4,None,0,,-2,,0,,,80,Onion,,,None,0,,50,8,,1,,None,,TRUE
+OrchardMelon,BUILDABLE_NAME_31,BUILDABLE_DESC_31,,2,,60,15,0,0,0,0,,4,,0,,,4,None,0,,-2,,0,,,80,Melon,,,None,0,,50,8,,1,,None,,TRUE
+OrchardCabbage,BUILDABLE_NAME_32,BUILDABLE_DESC_32,,2,,50,15,0,0,0,0,,4,,0,,,4,None,0,,-2,,0,,,80,Cabbage,,,None,0,,50,8,,1,,None,,TRUE
+OrchardMedicinalPlant,BUILDABLE_NAME_33,BUILDABLE_DESC_33,,3,,60,15,0,0,0,0,,4,,0,,,4,None,0,,-2,,0,,,80,Herb,,,None,0,,50,4,,1,,None,,TRUE
+FishingDock,BUILDABLE_NAME_34,BUILDABLE_DESC_34,,3,,110,0,20,50,0,0,,4,,0,,Más producción,4,None,0,,-2,,0,,,80,Fish,,,None,0,,100,5,,1,,None,,TRUE
+FarmPig,BUILDABLE_NAME_35,BUILDABLE_DESC_35,,4,,150,60,0,30,0,0,,4,,0,,Más producción,4,None,0,,-2,,0,,,10,Pig,,,Cereal,3,,80,2,,2,,None,,TRUE
+FarmChicken,BUILDABLE_NAME_36,BUILDABLE_DESC_36,,3,,150,50,0,30,0,0,,4,,0,,Más producción,4,None,0,,-2,,0,,,60,Egg,,,Cereal,3,,80,6,,2,,None,,TRUE
+FarmCow,BUILDABLE_NAME_37,BUILDABLE_DESC_37,,4,,150,60,0,30,0,0,,4,,0,,Más producción,4,None,0,,-2,,0,,,60,Milk,,,Cereal,3,,80,6,,2,,None,,TRUE
+WoodExtraction,BUILDABLE_NAME_38,BUILDABLE_DESC_38,,1,,40,0,0,0,0,0,,4,,0,,Más producción,4,WoodExtraction,0,,-2,,0,,,80,Wood,,,None,0,,50,6,,2,,None,,TRUE
+StoneExtraction,BUILDABLE_NAME_39,BUILDABLE_DESC_39,,1,,40,0,0,0,0,0,,4,,0,,Más producción,4,StoneExtraction,0,,-2,,0,,,80,Stone,,,None,0,,50,10,,2,,None,,TRUE
+IronExtraction,BUILDABLE_NAME_40,BUILDABLE_DESC_40,,1,,40,20,0,15,0,0,,4,,0,,Más producción,4,IronExtraction,0,,-2,,0,,,80,Iron,,,None,0,,75,6,,2,,None,,TRUE
+WoodRefinery,BUILDABLE_NAME_41,BUILDABLE_DESC_41,,2,,160,50,0,0,0,0,,4,,0,,Más producción,4,None,0,,-2,,0,,,60,Plank,,,Wood,2,,50,6,,3,,None,,TRUE
+StoneRefinery,BUILDABLE_NAME_42,BUILDABLE_DESC_42,,2,,160,0,0,50,0,0,,4,,0,,Más producción,4,None,0,,-2,,0,,,60,Brick,,,Stone,2,,50,6,,3,,None,,TRUE
+BlacksmithSword,BUILDABLE_NAME_43,BUILDABLE_DESC_43,,4,,220,0,0,0,25,30,,4,,0,,Más producción,4,None,0,,-2,,0,,,60,Gladius,,,Iron,2,,125,2,,3,,None,,TRUE
+BlacksmithArmor,BUILDABLE_NAME_96,BUILDABLE_DESC_96,,4,,220,0,0,0,25,30,,4,,0,,,4,None,0,,-2,,0,,,60,Armor,,,Iron,3,,125,2,,3,,None,,TRUE
+BlacksmithBow,BUILDABLE_NAME_97,BUILDABLE_DESC_97,,4,,220,0,0,0,25,30,,4,,0,,,4,None,0,,-2,,0,,,60,Bow,,,Wood,5,,125,2,,3,,None,,TRUE
+BlacksmithShield,BUILDABLE_NAME_98,BUILDABLE_DESC_98,,4,,220,0,0,0,25,30,,4,,0,,,4,None,0,,-2,,0,,,60,Shield,,,Plank,3,,125,2,,3,,None,,TRUE
+Bakery,BUILDABLE_NAME_44,BUILDABLE_DESC_44,,3,,180,0,15,0,20,,,4,,0,,Más producción,4,None,0,,-2,,0,,,60,Bread,,,Cereal,3,,100,4,,3,,None,,TRUE
+Butcher,BUILDABLE_NAME_45,BUILDABLE_DESC_45,,4,,160,0,20,0,0,0,,4,,0,,Más producción,4,None,0,,-2,,0,,,60,RationMeat,,,Pig,1,,100,4,,3,,None,,TRUE
+Fishmonger,BUILDABLE_NAME_46,BUILDABLE_DESC_46,,3,,160,0,20,0,0,0,,4,,0,,Más producción,4,None,0,,-2,,0,,,60,RationFish,,,Fish,1,,100,4,,3,,None,,TRUE
+Distillery,BUILDABLE_NAME_47,BUILDABLE_DESC_47,,2,,220,0,30,0,15,0,,4,,0,,Más producción,4,None,0,,-2,,0,,,60,Wine,,,Grape,4,,80,4,,3,,None,,TRUE
+Loom,BUILDABLE_NAME_48,BUILDABLE_DESC_48,,4,,180,0,20,0,0,0,,4,,0,,Más producción,4,None,0,,-2,,0,,,60,Cloth,,,Linen,10,,120,6,,3,,None,,TRUE
+FurnitureWorkshop,BUILDABLE_NAME_99,BUILDABLE_DESC_99,,6,,180,0,40,0,0,0,,4,,0,,,4,None,0,,-2,,0,,,60,Furniture,,,Plank,3,,120,3,,3,,None,,TRUE
+FoodWarehouse,BUILDABLE_NAME_49,BUILDABLE_DESC_49,,1,,80,10,0,0,0,0,,4,,0,,Más stock,8,FoodWarehouse,0,,-2,,2500,"Cereal, Fish,Herb, Bread, Pig, RationFish, RationMeat, Wine, Egg, Milk, Carrot, Grape, Melon, Onion, Cabbage, Cheese, Honey, Oil, Spices",,0,,,,None,0,,0,0,,3,,None,,TRUE
+ResourcesWarehouse,BUILDABLE_NAME_50,BUILDABLE_DESC_50,,1,,80,0,0,0,0,0,,4,,0,,Más stock,8,ResourcesWarehouse,0,,-2,,2500,"Iron, Linen, Stone, Wood, Brick, Cloth, Plank, Skin, Ceramic, Ivory, Marble, Papyrus, Silk, Furniture",,0,,,,None,0,,0,0,,3,,None,,TRUE
+Armory,BUILDABLE_NAME_51,BUILDABLE_DESC_51,,4,,140,0,0,0,30,20,,4,,0,,Más stock,8,Armory,0,,-2,,1500,"Armor,Gladius,Bow, Shield",,0,,,,None,0,,0,0,,3,,None,,TRUE
+TradingPost,BUILDABLE_NAME_52,BUILDABLE_DESC_52,,1,,0,0,0,0,0,0,,0,,0,,Más stock,12,None,0,,0,,5000,"Iron, Stone, Wood, Egg, Milk, Linen, Cereal, Fish, Grape, Herb, Carrot, Melon, Onion, Cabbage, Pig, Furniture, Armor, Bread, Brick, Cloth, Plank, RationFish, RationMeat, Shield, Skin, Bow, Gladius, Wine, Ceramic, Cheese, Honey, Ivory, Marble, Oil, Papyrus, Silk, Spices,",,0,,,,None,0,,0,0,,3,,None,,FALSE
+Barrack,BUILDABLE_NAME_95,BUILDABLE_DESC_95,,4,,480,0,30,0,0,0,,0,,7,,,0,None,0,,-4,,0,,,0,,,,None,0,,0,0,,5,,None,,FALSE
+InfantryTraining,BUILDABLE_NAME_53,BUILDABLE_DESC_53,,4,,240,0,20,0,15,0,,4,,0,,Más producción,0,None,0,,-4,,0,,,0,,,,None,0,,0,0,,3,,None,,FALSE
+ArcheryTraining,BUILDABLE_NAME_54,BUILDABLE_DESC_54,,4,,240,0,20,0,15,40,,4,,0,,Más producción,0,None,0,,-4,,0,,,0,,,,None,0,,0,0,,3,,None,,FALSE
+CavalryTraining,BUILDABLE_NAME_55,BUILDABLE_DESC_55,,5,,240,0,20,0,15,40,,4,,0,,Más producción,0,None,0,,-4,,0,,,0,,,,None,0,,0,0,,3,,None,,FALSE
+CenturionTraining,BUILDABLE_NAME_56,BUILDABLE_DESC_56,,4,,300,0,20,0,15,50,,4,,0,,Más producción,0,None,0,,-4,,0,,,0,,,,None,0,,0,0,,3,,None,,FALSE
+ExplorerTraining,BUILDABLE_NAME_57,BUILDABLE_DESC_57,,4,,260,0,20,0,15,40,,4,,0,,Más producción,0,None,0,,-4,,0,,,0,,,,None,0,,0,0,,3,,None,,FALSE
+PraetorianGuardTraining,BUILDABLE_NAME_58,BUILDABLE_DESC_58,,4,,240,0,20,0,15,60,,4,,0,,Más producción,0,None,0,,-4,,0,,,0,,,,None,0,,0,0,,3,,None,,FALSE
+GuardPost,BUILDABLE_NAME_59,BUILDABLE_DESC_59,,4,,100,0,10,0,0,0,,2,,0,,Más bonito,8,Security,0,,0,,0,,,0,,,,None,0,,0,0,,1,,None,,FALSE
+Watchtower,BUILDABLE_NAME_60,BUILDABLE_DESC_60,,4,,220,0,40,0,20,60,,2,,0,,Más frecuencia disparo,12,Security,0,,0,,0,,,0,,,,None,0,,0,0,,1,,None,,TRUE
+Wall,BUILDABLE_NAME_61,BUILDABLE_DESC_61,,4,,25,0,4,0,5,0,,0,,0,,Más durabilidad,0,None,0,,0,,0,,,0,,,,None,0,,0,0,,0,,None,,FALSE
+WallGate,BUILDABLE_NAME_62,BUILDABLE_DESC_62,,4,,40,0,5,0,7,0,,0,,0,,Más durabilidad,0,None,0,,0,,0,,,0,,,,None,0,,0,0,,0,,None,,FALSE
+Garden1,BUILDABLE_NAME_65,BUILDABLE_DESC_65,,2,,30,0,0,10,0,0,,0,,0,,-,2,None,0,,1,,0,,,0,,,,None,0,,0,0,,0,,None,,FALSE
+Garden2,BUILDABLE_NAME_65,BUILDABLE_DESC_65,,2,,30,0,0,10,0,0,,0,,0,,,2,None,0,,1,,0,,,0,,,,None,0,,0,0,,0,,None,,FALSE
+Garden3,BUILDABLE_NAME_65,BUILDABLE_DESC_65,,2,,30,0,0,10,0,0,,0,,0,,,2,None,0,,1,,0,,,0,,,,None,0,,0,0,,0,,None,,FALSE
+Garden4,BUILDABLE_NAME_65,BUILDABLE_DESC_65,,2,,30,0,0,10,0,0,,0,,0,,,2,None,0,,1,,0,,,0,,,,None,0,,0,0,,0,,None,,FALSE
+Trees,BUILDABLE_NAME_70,BUILDABLE_DESC_70,,2,,40,15,0,0,0,0,,0,,0,,-,2,None,0,,1,,0,,,0,,,,None,0,,0,0,,0,,None,,FALSE
+BushArch,BUILDABLE_NAME_71,BUILDABLE_DESC_71,,3,,30,3,0,0,0,0,,0,,0,,-,2,None,0,,1,,0,,,0,,,,None,0,,0,0,,0,,None,,FALSE
+LittleArch,BUILDABLE_NAME_72,BUILDABLE_DESC_72,,7,,120,0,0,0,15,0,,0,,0,,-,3,None,0,,3,,0,,,0,,,,None,0,,0,0,,0,,None,,FALSE
+TriunphArch,BUILDABLE_NAME_73,BUILDABLE_DESC_73,,10,,250,0,0,0,55,0,,0,,0,,-,5,None,0,,6,,0,,,0,,,,None,0,,0,0,,0,,None,,FALSE
+Sign,BUILDABLE_NAME_74,BUILDABLE_DESC_74,,7,,75,0,0,0,7,0,,0,,0,,-,3,None,0,,2,,0,,,0,,,,None,0,,0,0,,0,,None,,FALSE
+TrajanColumn,BUILDABLE_NAME_75,BUILDABLE_DESC_75,,5,,60,0,0,0,10,0,,0,,0,,-,2,None,0,,2,,0,,,0,,,,None,0,,0,0,,0,,None,,FALSE
+Obelisk,BUILDABLE_NAME_76,BUILDABLE_DESC_76,,9,,100,0,0,0,40,0,,0,,0,,-,2,None,0,,3,,0,,,0,,,,None,0,,0,0,,0,,None,,FALSE
+Gazebo,BUILDABLE_NAME_77,BUILDABLE_DESC_77,,4,,75,0,0,0,15,0,,0,,0,,-,2,None,0,,2,,0,,,0,,,,None,0,,0,0,,0,,None,,FALSE
+MosaicSquare,BUILDABLE_NAME_78,BUILDABLE_DESC_78,,9,,130,0,0,0,10,0,,0,,0,,-,3,None,0,,4,,0,,,0,,,,None,0,,0,0,,0,,None,,FALSE
+Colossus,BUILDABLE_NAME_79,BUILDABLE_DESC_79,,8,,250,0,0,0,15,50,,0,,0,,-,3,None,0,,6,,0,,,0,,,,None,0,,0,0,,0,,None,,FALSE
+ColossusRhodes,BUILDABLE_NAME_80,BUILDABLE_DESC_80,,10,,350,0,0,0,20,100,,0,,0,,-,4,None,0,,7,,0,,,0,,,,None,0,,0,0,,0,,None,,FALSE
+EquestrianStatue,BUILDABLE_NAME_81,BUILDABLE_DESC_81,,7,,150,0,0,0,10,25,,0,,0,,-,3,None,0,,5,,0,,,0,,,,None,0,,0,0,,0,,None,,FALSE
+GladiatorStatue,BUILDABLE_NAME_82,BUILDABLE_DESC_82,,6,,150,0,0,0,10,20,,0,,0,,-,3,None,0,,5,,0,,,0,,,,None,0,,0,0,,0,,None,,FALSE
+LionStatue,BUILDABLE_NAME_83,BUILDABLE_DESC_83,,5,,150,0,0,0,10,20,,0,,0,,-,3,None,0,,5,,0,,,0,,,,None,0,,0,0,,0,,None,,FALSE
+Romulus,BUILDABLE_NAME_84,BUILDABLE_DESC_84,,5,,150,0,0,0,10,20,,0,,0,,-,3,None,0,,5,,0,,,0,,,,None,0,,0,0,,0,,None,,FALSE
+SquareFountain,BUILDABLE_NAME_86,BUILDABLE_DESC_86,,8,,200,0,0,0,15,0,,0,,0,,-,3,None,0,,4,,0,,,0,,,,None,0,,0,0,,0,,None,,FALSE
+Fountain_Squared,BUILDABLE_NAME_87,BUILDABLE_DESC_87,,4,,110,0,0,0,10,0,,0,,0,,-,3,None,0,,4,,0,,,0,,,,None,0,,0,0,,0,,None,,FALSE
+Fountain_Rounded,BUILDABLE_NAME_88,BUILDABLE_DESC_88,,4,,110,0,0,0,10,0,,0,,0,,-,3,None,0,,4,,0,,,0,,,,None,0,,0,0,,0,,None,,FALSE
+BigGarden1,BUILDABLE_NAME_65,BUILDABLE_DESC_65,,9,,50,0,0,40,0,0,,0,,0,,,2,None,0,,5,,0,,,0,,,,None,0,,0,0,,0,,None,,FALSE
+BigGarden2,BUILDABLE_NAME_65,BUILDABLE_DESC_65,,9,,50,0,0,40,0,0,,0,,0,,,2,None,0,,5,,0,,,0,,,,None,0,,0,0,,0,,None,,FALSE
+BigGarden3,BUILDABLE_NAME_65,BUILDABLE_DESC_65,,9,,50,0,0,40,0,0,,0,,0,,,2,None,0,,5,,0,,,0,,,,None,0,,0,0,,0,,None,,FALSE
+RomanPortico,BUILDABLE_NAME_91,BUILDABLE_DESC_91,,4,,60,0,0,0,5,0,,0,,0,,,2,None,0,,2,,0,,,0,,,,None,0,,0,0,,0,,None,,FALSE
+RomanPorticoGate,BUILDABLE_NAME_100,BUILDABLE_DESC_100,,4,,60,0,0,0,5,0,,0,,0,,,2,None,0,,2,,0,,,0,,,,None,0,,0,0,,0,,None,,FALSE
+BushWall,BUILDABLE_NAME_92,BUILDABLE_DESC_92,,3,,30,3,0,0,0,0,,0,,0,,,2,None,0,,1,,0,,,0,,,,None,0,,0,0,,0,,None,,FALSE
+BrickWall,BUILDABLE_NAME_93,BUILDABLE_DESC_93,,6,,60,0,0,0,2,0,,0,,0,,,2,None,0,,3,,0,,,0,,,,None,0,,0,0,,0,,None,,FALSE
+BrickGate,BUILDABLE_NAME_94,BUILDABLE_DESC_94,,6,,60,0,0,0,2,0,,0,,0,,,2,None,0,,3,,0,,,0,,,,None,0,,0,0,,0,,None,,FALSE
+Blocker1,NONE,NONE,,-1,,0,0,0,0,0,0,,0,,0,,,0,None,0,,0,,0,,,0,,,,None,0,,0,0,,0,,None,,FALSE
+Blocker2,NONE,NONE,,-1,,0,0,0,0,0,0,,0,,0,,,0,None,0,,0,,0,,,0,,,,None,0,,0,0,,0,,None,,FALSE
+Blocker3,NONE,NONE,,-1,,0,0,0,0,0,0,,0,,0,,,0,None,0,,0,,0,,,0,,,,None,0,,0,0,,0,,None,,FALSE
+Blocker4,NONE,NONE,,-1,,0,0,0,0,0,0,,0,,0,,,0,None,0,,0,,0,,,0,,,,None,0,,0,0,,0,,None,,FALSE
+Blocker5,NONE,NONE,,-1,,0,0,0,0,0,0,,0,,0,,,0,None,0,,0,,0,,,0,,,,None,0,,0,0,,0,,None,,FALSE
+Blocker6,NONE,NONE,,-1,,0,0,0,0,0,0,,0,,0,,,0,None,0,,0,,0,,,0,,,,None,0,,0,0,,0,,None,,FALSE
+Blocker7,NONE,NONE,,-1,,0,0,0,0,0,0,,0,,0,,,0,None,0,,0,,0,,,0,,,,None,0,,0,0,,0,,None,,FALSE
+Blocker8,NONE,NONE,,-1,,0,0,0,0,0,0,,0,,0,,,0,None,0,,0,,0,,,0,,,,None,0,,0,0,,0,,None,,FALSE
+AqueductWall,BUILDABLE_NAME_109,BUILDABLE_DESC_109,,4,,80,0,5,0,7,0,,0,,0,,,0,None,0,,0,,0,,,0,,,,None,0,,0,0,,0,,None,,FALSE

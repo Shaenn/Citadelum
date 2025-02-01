@@ -1,0 +1,8 @@
+GodType,characterType,-,int,int,-,int,int
+god,rivalGod,_benefit,benefitValue1,benefitValue2,_punishment,punishmentValue1,punishmentValue2
+Jupiter,Pluton,"Aumentar al máximo la salud, el entretenimiento y eventos religiosos para que suba el computo global del favor del pueblo. Edificios benefitValue1",5,0,"Irá a tu ciudad y se dará un paseo por ahí destruyendo algunos edificios, La cantidad será determinado por punishmentValue1. Por hacerlo separado de Ceres y Marte, que no vaya ni a por edificios de comida nii militares. Son edificios de servicios y entretenimiento.",4,0
+Pluton,Jupiter,Añadimos dinero con la cantidad de la variable benefitValue2. Rellenamos de vino los edificios de la variable benefitValue1. El dinero lo añade en el primer edificio,5,1500,Plutón roba dinero de las arcas de impuestos (la cantidad de punishmentValue2 ) y te quita todo el vino de los edificios punishmentValue1. El dinero lo quita en el primer edificio,4,1000
+Ceres,Marte,Rellena benefitValue1 edificios de huertos y granjas. ,5,0,Destruye punishmentValue1 edificios de huertos y granjas. ,4,0
+Marte,Ceres,Te da entre 4 y 8 soldados entrenados sobre benefitValue1 edificios de entrenamiento,5,0,Destruye punishmentValue1 edificios de entrenamiento de soldados,4,0
+Apolo,Minerva,Apolo llenará todos las needs de cada casa de plebeyos y patricios,5,0,Robará todos los alimentos de las reservas de todas las casa de plebeyos y patricios,4,0
+Minerva,Apolo,Rellena benefitValue1 edificios de producción de materiales,5,0,Destruye punishmentValue1 edificios de produccion de materiales,4,0

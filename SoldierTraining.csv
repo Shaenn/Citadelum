@@ -1,0 +1,9 @@
+CharacterType,float,int,int,int,int,int,int,int
+characterType,trainingIncrease,everySec,cerealCost,meatCost,armorCost,gladiusCost,shieldCost,bowCost
+MilitaryBase,0,0,0,0,0,0,0,0
+MilitaryCenturion,0.05,15,0,30,1,1,1,0
+MilitaryExplorer,0.05,10,100,0,0,0,0,0
+MilitaryInfantry,0.05,5,10,0,1,1,1,0
+MilitaryArcher,0.05,5,10,0,1,0,0,1
+MilitaryCavalry,0.05,10,5,5,1,1,0,0
+MilitaryDefense,0.05,5,8,2,0,1,0,1

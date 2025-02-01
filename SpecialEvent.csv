@@ -1,0 +1,17 @@
+SpecialEventType,float,int,int,int,int,int,int,int,int,int,int,int,int,int,int,int,int
+SpecialEventType,duration,Denarii,Egg ,Milk,Pig,Fish,Cereal,Grape,Herb,Carrot,Melon,Onion,Cabbage,Bread,RationFish,RationMeat,Wine
+SmallFestivalApolo,250,200,0,0,0,0,0,0,0,0,50,0,0,0,0,0,0
+SmallFestivalMinerva,250,200,0,0,0,0,0,0,50,0,0,0,0,0,0,0,0
+SmallFestivalCeres,250,200,0,0,0,0,75,0,0,0,0,0,0,0,0,0,0
+SmallFestivalMarte,250,200,0,0,0,0,0,0,0,50,0,0,0,0,0,0,0
+SmallFestivalJupiter,250,200,0,0,0,0,0,0,0,0,0,50,0,0,0,0,0
+SmallFestivalPluton,250,200,0,0,0,0,0,50,0,0,0,0,0,0,0,0,0
+BigFestivalApolo,500,350,30,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BigFestivalMinerva,500,350,0,30,0,0,0,0,0,0,0,0,0,0,0,0,0
+BigFestivalCeres,500,350,0,0,0,0,0,0,0,0,0,0,0,30,0,0,0
+BigFestivalMarte,500,350,0,0,0,0,0,0,0,0,0,0,0,0,30,0,0
+BigFestivalJupiter,500,350,0,0,0,0,0,0,0,0,0,0,0,0,0,30,0
+BigFestivalPluton,500,350,0,0,0,0,0,0,0,0,0,0,0,0,0,0,40
+Gladiator,250,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Theater,250,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ChariotRun,250,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

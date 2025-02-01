@@ -1,0 +1,33 @@
+int,int,int,AdvisorType,Textkey,TutoActionType,-,Textkey,-,int_array
+id,order,missionID,advisor,titleTextkey,action,_title,introTextkey,_intro,objectives
+0,0,1,PopulationAdvisor,TUTORIAL_TITLE0,SHOW_TUTORIAL,Controles de la cámara,TUTORIAL_INTRO0,"Ave Dominus, soy Gaius Titus Cato, emisario del Senado para ayudarte a gestionar tu asentamiento. Veo que no tienes demasiada experiencia en esta labor, ¿verdad? Lo primero que tienes que aprender es cómo desplazarte.","0,1,2"
+1,10,1,PopulationAdvisor,TUTORIAL_TITLE1,SHOW_TUTORIAL,Foro,TUTORIAL_INTRO1,Comienza por construir la entrada del asentamiento. Las puertas de la ciudad serán el punto de partida a partir del que levantar el resto de construcciones.,3
+2,20,1,PopulationAdvisor,TUTORIAL_TITLE2,SHOW_TUTORIAL,Parcela de viviendas,TUTORIAL_INTRO2,"Ahora que ya tenemos un punto de llegada a nuestro asentamiento, necesitamos viviendas para que se instalen los ciudadanos.","4,5"
+26,30,1,NONE,NONE,CREATE_FIRE,"Especial, provoca incendio",NONE,NONE,
+3,40,1,EngineeringAdvisor,TUTORIAL_TITLE3,SHOW_TUTORIAL,Incendios y Mantenimiento,TUTORIAL_INTRO3,"Vaya, parece que se ha declarado un incendio. Permite que te ayude, soy Maximus Agrippa, consejero de ingeniería.","6,7"
+4,50,1,EngineeringAdvisor,TUTORIAL_TITLE4,SHOW_TUTORIAL,Gestión del trabajo,TUTORIAL_INTRO4,"Sé que eres una persona muy ocupada, así que te vendrá bien esto que te voy a explicar.","9,140"
+5,60,1,EngineeringAdvisor,TUTORIAL_TITLE5,SHOW_TUTORIAL,Agua,TUTORIAL_INTRO5,"Ya posees la infraestructura necesaria, pero sin agua los incendios no se pueden apagar.","129,135,139,10"
+6,70,1,EngineeringAdvisor,TUTORIAL_TITLE6,SHOW_TUTORIAL,Extracción de recursos,TUTORIAL_INTRO6,"Ahora que están todas las cosas en orden, deberias ampliar el tamaño del asentamiento. Para ello, vas a necesitar materiales. Es el momento de poner a los ciudadanos a trabajar.","11,12,13,14"
+27,80,1,PopulationAdvisor,TUTORIAL_TITLE25,SHOW_TUTORIAL,Estado de la ciudad,TUTORIAL_INTRO25,No olvides que tienes que estar pendiente de todos los habitantes de tu ciudad.,"130,131,132,133"
+7,90,1,EngineeringAdvisor,TUTORIAL_TITLE7,SHOW_TUTORIAL,Cultivos y granjas,TUTORIAL_INTRO7,Me satisface ver tus progresos. Ha llegado el momento de que te hagas cargo de otra de las tareas cruciales para tus ciudadanos.,"16,17,20"
+29,100,1,PopulationAdvisor,TUTORIAL_TITLE26,SHOW_TUTORIAL,Mercado,TUTORIAL_INTRO26,Ahora nos toca ver el como hacemos llegar todos estos alimentos a nuestros ciudadanos.,"138,137"
+12,110,1,PopulationAdvisor,TUTORIAL_TITLE12,SHOW_TUTORIAL,Patricios e Impuestos,TUTORIAL_INTRO12,"Con estos nuevos materiales de construcción en tu poder, puedes crear edificios de mayor nivel, como por ejemplo las casas para patricios.","33,136,34,35"
+8,120,1,PopulationAdvisor,TUTORIAL_TITLE8,SHOW_TUTORIAL,Prestigio y progreso,TUTORIAL_INTRO8,"Enhorabuena, has conseguido alcanzar un nuevo nivel de prestigio","23, 144,24"
+9,130,1,MilitaryAdvisor,TUTORIAL_TITLE9,SHOW_TUTORIAL,Exploración del mapa,TUTORIAL_INTRO9,"Ave Dominus, soy Marcus Drusus, delegado militar del Senado, y me voy a encargar de supervisar tus acciones en el mapa. Parece que la ciudad empieza a avanzar pero no todo es trabajar en el asentamiento.","141,25"
+10,140,1,CommerceAdvisor,TUTORIAL_TITLE10,SHOW_TUTORIAL,Rutas comerciales,TUTORIAL_INTRO10,"Bien, ahora que Vettona está conectada con tu asentamiento puedes comerciar con ellos.",143
+28,150,2,NONE,NONE,NONE,"Especial, inicio de la missión 2",NONE,NONE,134
+11,160,2,EngineeringAdvisor,TUTORIAL_TITLE11,SHOW_TUTORIAL,Refinamiento de recursos,TUTORIAL_INTRO11,"Parece que lo tienes dominado. Pero has de seguir avanzando y para ello, no bastará con los recursos básicos.","29,31"
+13,170,2,EntertainmentAdvisor,TUTORIAL_TITLE13,SHOW_TUTORIAL,Salud y entretenimiento,TUTORIAL_INTRO13,"Los patricios, como ya sabes, son exigentes.","38,39,40"
+32,180,2,ReligionAdvisor,TUTORIAL_TITLE15,SHOW_TUTORIAL,Religión,TUTORIAL_INTRO15,"Bueno, Dominus, veo que te han explicado cómo construir un asentamiento y gestionarlo, pero es el momento de volver tu mirada a los dioses. Yo, Publius Aelius, puedo aconsejarte cómo hacerlo.","146,44"
+33,190,2,ReligionAdvisor,TUTORIAL_TITLE27,SHOW_TUTORIAL,Dioses,TUTORIAL_INTRO27,Ya es hora de presentarte ante los dioses.,76
+35,200,2,NONE,NONE,SET_GODS_INITIAL,"Especial, setea la fe para que puedas invocar a ceres",NONE,NONE,
+34,210,2,ReligionAdvisor,TUTORIAL_TITLE28,SHOW_TUTORIAL,Bendiciones y castigos de los dioses,TUTORIAL_INTRO28,"Una vez sabido todo esto, ya solo te queda el saber como interactuar con los dioses.",47
+15,220,2,PopulationAdvisor,TUTORIAL_TITLE14,SHOW_TUTORIAL,Mejorar las viviendas,TUTORIAL_INTRO14,Ya has podido comprobar la importancia que tiene dotar a tus gentes de algunas comodidades.,"41,145"
+39,,2,NONE,NONE,CREATE_LEGION,"Especial, crea una legion",NONE,NONE,
+19,240,2,MilitaryAdvisor,TUTORIAL_TITLE19,SHOW_TUTORIAL,Armamento,TUTORIAL_INTRO19,Creo que es momento de empezar a preparar las cosas necesarias para producir nuestras propias legiones.,"148,62,63,64,65"
+20,250,2,MilitaryAdvisor,TUTORIAL_TITLE20,SHOW_TUTORIAL,Entrenamiento,TUTORIAL_INTRO20,"Es el momento de ponerse serios ya que vas a necesitar entrenar a soldados, tanto para defender tu ciudad como acabar con el enemigo de la región.","66,67,68"
+21,260,2,MilitaryAdvisor,TUTORIAL_TITLE21,SHOW_TUTORIAL,Enviar tropas al mapa,TUTORIAL_INTRO21,"Parece que empiezas a estar preparado para posibles ataques, pero hablemos ahora de encargarnos de los enemigos del <color=#D1B770><b>Mapa de la regón</b></color>",72
+16,270,2,MilitaryAdvisor,TUTORIAL_TITLE16,SHOW_TUTORIAL,Iniciar Combate,TUTORIAL_INTRO16,"Has demostrado ser un buen dirigente, pero ahí fuera te esperan enemigos, y debes acabar con ellos si quieres liberar los pueblos de la región. Te entrego el mando de una legión para que te hagas cargo de las tropas que nos bloquean el paso. Enfréntate a ellas y sal victorioso ¡por Marte!",49
+17,280,-1,MilitaryAdvisor,TUTORIAL_TITLE17,SHOW_TUTORIAL,Formación de Combate,TUTORIAL_INTRO17,"Ahora viene la hora de la verdad, vas a enfrentarte a tu primera batalla. Pero antes, debes decidir la formación de las diferentes unidades.",
+38,290,-1,MilitaryAdvisor,TUTORIAL_TITLE30,SHOW_TUTORIAL,Combate,TUTORIAL_INTRO30,Lo siguiente que te espera es dirigir la acción durante el comabate así que presta atención.,
+24,300,-1,MilitaryAdvisor,TUTORIAL_TITLE24,SHOW_TUTORIAL,Defensas,TUTORIAL_INTRO24,"Lo primero que te recomiendo es que prepares las defensas de la ciudad, en un futuro me lo agradecerás.",

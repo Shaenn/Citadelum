@@ -1,0 +1,259 @@
+int,Textkey,-,string
+id,textkey,_text,image
+0,TUTORIAL_TEXT0,Mueve la cámara manteniendo presionado el botón derecho del ratón. También puedes utilizar las teclas por defecto <b>W/A/S/D</b>,None
+0,NONE,,Tutorial0_WASD
+0,TUTORIAL_TEXT1,La cámara se puede rotar presionando el botón de la rueda del ratón o utilizando las teclas <b>Q</b> y E.,None
+0,NONE,,Tutorial0_WheelRotation
+0,TUTORIAL_TEXT2,Y para hacer zoom utiliza la rueda del ratón o las teclas <b>Z/X</b>. Con avance pag/re pag puedes alternar entre el nivel de zoom máximo y mínimo.,None
+0,NONE,,Tutorial0_WheelZoom
+1,TUTORIAL_TEXT3,El <color=#D1B770><b>Foro</b></color> es el centro de tu asentamiento y además el lugar donde se almacenan los recursos de las rutas de comercio.,None
+1,NONE,,Tutorial1_CityGates
+1,NONE,,Tutorial1_BuildingCityGates
+1,TUTORIAL_TEXT101,"Te recomendamos que las construyas cerca de zonas con agua y de otros recursos naturales, ya que los necesitarás.",
+2,TUTORIAL_TEXT5,"Si construyes <color=#D1B770><b>Viviendas de plebeyos</b></color>, empezarán a venir nuevos inmigrantes a la ciudad que te ayudarán a hacerla crecer. Si más adelante amplias su capacidad mejorando estos edificios cumpliendo los requisitos, también hará que lleguen nuevos habitantes.",None
+2,NONE,,Tutorial2_BuildingHousingZone
+2,TUTORIAL_TEXT6,Estas parcelas deben conectarse mediante caminos a las <b>Puertas de la ciudad</b> o a la <b>Vía principal</b>. Puedes encontrar la herramienta para construir caminos en la sección de suelos de la parte inferior.,None
+2,NONE,,Tutorial2_Road
+2,NONE,,Tutorial2_BuidlingRoad
+3,NONE,,Tutorial3_BuildingOnFire
+3,TUTORIAL_TEXT7,"Ocasionalmente se puede producir un incendio. Por eso es importante construir <b>Cuarteles antiincendios</b>, que se encarguen de extinguir los fuegos de los edificios cercanos.",None
+3,NONE,,Tutorial3_FireStation
+3,NONE,,Tutorial3_BuildingFireStation
+3,TUTORIAL_TEXT9,"Además del riesgo de incendio, los edificios requieren un mantenimiento periódico si no quieres que acaben en ruinas. Para ello tendrás que construir también el <b>Puesto de ingenieros</b>.",None
+3,NONE,,Tutorial3_Maintenance
+3,NONE,,Tutorial3_BuildingMaintenance
+3,TUTORIAL_TEXT10,"Si no cuidas estos aspectos, los edificios pueden derrumbarse. En caso de que esto ocurra, puedes utilizar la herramienta <b>Despejar</b> para retirar los escombros y hacer que esa zona vuelva a ser útil.",None
+4,TUTORIAL_TEXT11,"Los edificios, por defecto, no tienen trabajadores asignados. Debes destinar personal a cada uno de ellos, pero, ten en cuenta que cada uno de ellos recibirá un sueldo.",
+4,NONE,,Tutorial4_BuildingWithoutWorkers
+4,TUTORIAL_TEXT12,"Para asignar nuevos trabajadores a un edificio, selecciónalo y presiona el botón de añadir personal. En caso de querer quitar, presiona el botón de desasignar.",
+4,NONE,,Tutorial4_Building_AssignWorkers
+4,TUTORIAL_TEXT13,Tienes la posibilidad de gestionar todo lo relacionado con los trabajadores y la producción de materiales y comida. En la ventana de trabajos puedes encontrar todo lo necesario.,None
+4,NONE,,Tutorial4_ManagementButton
+4,TUTORIAL_TEXT14,"En esta ventana puedes ver todos los tipos de trabajo disponibles, cuántos puestos libres hay y cuanta gente está trabajando. Además, de una manera sencilla, puedes aumentar y disminuir el número de trabajadores asignados.",None
+4,NONE,,Tutorial4_Management_Jobs_Workers
+4,TUTORIAL_TEXT15,"De esta manera, mantenes un control total de lo que se está haciendo en tu asentamiento",None
+5,TUTORIAL_TEXT88,"Algunos edificios necesitan agua para realizar su función. Por ejemplo, los <color=#D1B770><b>Cuarteles antiincendios</b></color> no podrán apagar fuegos si no tienen una fuente de agua cercana.",None
+5,NONE,,Tutorial_FireStationNoWater
+5,TUTORIAL_TEXT89,"Pero no te preocupes, gracias a los <b>Acueductos</b> podremos hacer llegar el agua a casi cualquier lugar. Primero de todo tendremos que construir un <b>Molino de Agua</b> junto a una orilla para elevar el agua.",None
+5,NONE,,Tutorial5_Watermill
+5,TUTORIAL_TEXT90,"Para poder transportar el agua a la zona que la necesitemos, lo haremos construyendo <b>Acueductos</b> conectados al <b>Molino de Agua</b>.",
+5,NONE,,Tutorial5_Aqueduct
+5,TUTORIAL_TEXT91,"Una vez llevemos el agua a la zona que queramos, necesitaremos construir una <b>Cisterna</b> conectada al <b>Acueducto</b> para abastecer de agua a su alrededor.",
+5,NONE,,Tutorial_Reservoir
+5,TUTORIAL_TEXT100,"Por último, ten en cuenta que también podrás construir <b>Pozos</b> en situaciones puntuales o cuando necesites aguas en zonas elevadas donde el <b>Acueducto</b> no la pueden hacer llegar. Ten en cuenta que el radio de influencia de estos será mucho más pequeño que el de las <b>Cisternas</b>.",
+5,NONE,,Tutorial5_Well
+6,TUTORIAL_TEXT16,"Para construir nuevos edificios se necesitan materiales, que se pueden obtener del entorno.",None
+6,TUTORIAL_TEXT17,El <b>Campamento maderero</b> permite extraer madera de los árboles. Constrúyelo cerca de un conjunto de árboles para conseguir un mayor rendimiento.,None
+6,NONE,,Tutorial5_Wood_Stone_Extraction
+6,TUTORIAL_TEXT18,Podrás explotar los yacimientos de piedra y las menas de hierro con los edificios <b>Extracción de piedra</b> y <b>Extracción de hierro</b> respectivamente. ,None
+6,NONE,,Tutorial5_BuildingStoneExtraction
+6,TUTORIAL_TEXT106,Echa siempre un vistazo al minimapa ya que ahí podrás ver fácilmente donde encontrar estos recursos,
+6,NONE,,Tutorial5_MiniMap
+6,TUTORIAL_TEXT19,"Además, para poder acumular los recursos debes construir <b>Almacenes</b> cerca de los edificios de extracción de recursos, ya que estos tienen una capacidad limitada.",None
+6,NONE,,Tutorial5_Warehouse
+6,TUTORIAL_TEXT107,"Por último, respecto a los <color=#D1B770><b>Almacenes</b></color>, debes saber que una vez almacenemos los recursos en ellos, estos serán accesible para ser utilizados por cualquier otro edificio de la ciudad, para la construcción, rutas comerciales, entrenamientos de soldados y lo que necesites sin tener que ser transportados.",None
+27,TUTORIAL_TEXT92,"Si solamente construyes alojamientos para plebeyos o soldados y no les buscas una ocupación, pueden generar un problema.",None
+27,NONE,,Tutorial_PlebeianComplaining
+27,TUTORIAL_TEXT93,En la parte superior de la pantalla verás toda la información necesaria para conocer el estado de tu ciudad.,None
+27,TUTORIAL_TEXT94,"Puedes detectar qué aspectos de tu ciudad funcionan bien, y aquellos con carencias, como la cantidad de plebeyos sin trabajo o sin vivienda.",None
+27,NONE,,Tutorial_TopBarInfo
+27,TUTORIAL_TEXT95,Intenta vigilar constantemente esta información para gestionar mejor tu ciudad y hacerla crecer prósperamente.,None
+27,TUTORIAL_TEXT108,"También, tendremos otro indicativo que nos dará la información de si estamos haciendo las cosas bien o mal y este será el del <color=#D1B770><b>Favor del pueblo</b></color>. Este tendrá una relación directa con la criminalidad, por lo que, cuanto más bajo sea el favor, más alto será esta, pudiendo provocar revueltas, asesinato o robos.",None
+27,NONE,,Tutorial_PeoplesFavor
+27,TUTORIAL_TEXT109,"Otro aspecto importante será el desempleo y la cantidad de gente sin hogar, lo cual ocasionará que si tenemos valores altos en estos indicativos, nuestra gente abandonará la ciudad.",None
+27,TUTORIAL_TEXT110,"Además, tendremos los indicadores de salud y de si estamos cubriendo correctamente las necesidades del pueblo. Tener valores bajos en esto provocará que mueran ciudadanos, así que has de tener en cuanta también estos aspectos.",None
+27,TUTORIAL_TEXT111,"Por último, tendremos que que prestar atención al nivel de entretenimiento y religión, además de como de altos serán los salarios y los impuestos, ya que afectará directamente al nivel de <color=#D1B770><b>Favor del pueblo</b></color>.",None
+7,TUTORIAL_TEXT20,"La comida es un aspecto muy importante para los habitantes del asentamiento, y debes vigilarlo constantemente. ",None
+7,TUTORIAL_TEXT21,"Sin comida, los ciudadanos no son felices y pueden enfermar o incluso abandonar el asentamiento. Asegúrate de tener siempre comida para abastecer las necesidades de tu población.",None
+7,TUTORIAL_TEXT22,"Para ello puedes establecer distintos tipos de cultivos, granjas y puestos de pesca.",None
+7,NONE,,Tutorial6_BuildingOrchard
+7,TUTORIAL_TEXT23,"Al igual que ocurre con los materiales, necesitas almacenarlos en los <b>Granero</b>, que debes construir cerca de las instalaciones de generación de comida. Y recuerda, como sucede con los <color=#D1B770><b>Almacenes</b></color>, una vez tengamos la comida en los graneros, podrá ser utilizada por cualquier edificios del asentamiento que lo necesita.", 
+7,NONE,,Tutorial6_BuildingGranary
+29,TUTORIAL_TEXT24,El <b>Mercado</b> es un edificio clave para el abastecimiento de las necesidades de tus ciudadanos.,None
+29,TUTORIAL_TEXT25,Debes colocarlo cerca de las <b>Viviendas de plebeyos y patricios</b> para asegurarte que tus ciudadanos están bien servidos de todas sus necesidades de comida y bienes.,None
+29,NONE,,Tutorial6_BuildingMarket
+29,TUTORIAL_TEXT26,Asegúrate de que tus <color=#D1B770><b>Graneros</b></color> y <color=#D1B770><b>Almacenes</b></color> tengan lo que necesitan tus ciudadanos para que los trabajadores del <color=#D1B770><b>Mercado</b></color> puedan repartirlo por las viviendas.,None
+8,TUTORIAL_TEXT27,"El nivel de prestigio es un indicador de la importancia de tu ciudad. A medida que vaya aumentando, tendrás acceso a edificios más avanzados y algunas estructuras aumentarán de nivel de forma automática, lo que favorece la llegada de nuevos pobladores al asentamiento.",None
+8,TUTORIAL_TEXT30,"Para consultar los requisitos para subir de prestigio, coloca el puntero sobre el área de prestigio, además, podrás ver que edificios que desbloquearás con ello.",None
+8,NONE,,Tutorial7_PrestigeTooltip
+8,TUTORIAL_TEXT96,"Además, en esa misma zona de la pantalla, en la superior izquierda, tendremos mucha información sobre tu ciudad.",None
+-1,TUTORIAL_TEXT97,"Por un lado, como ya hemos dicho, el prestigio. Pero también podemos consultar el favor de nuestros ciudadanos.",None
+8,TUTORIAL_TEXT98,"En esta sección también puedes ver lo que queda del día. Esto es importante porque los cobros y pagos se ejecutan al comienzo de cada día, además de realizarse las operaciones de compraventa de las rutas comerciales. Por último, puedes ver un resumen económico con el dinero que hay en tus arcas y el balance diario.",None
+8,NONE,,Tutorial_LeftTopBar
+9,TUTORIAL_TEXT31,Puedes explorar el territorio y asegurar tu dominio militar sobre él. Visualiza tu territorio en el <b>Mapa</b> de la región a través del botón de la interfaz de usuario.,None
+9,NONE,,Tutorial8_MapButton
+9,TUTORIAL_TEXT32,"En este mapa puedes ver tu ciudad y también los territorios que has explorado hasta el momento. Aumentar tu zona explorada genera calzadas, que conectarán tu ciudad con otras y permiten comerciar con ellas. También es vital para saber donde se encuentra el enemigo.",None
+9,NONE,,Tutorial8_WorldMap
+9,TUTORIAL_TEXT33,"Para desplazar a un <b>Exploradores</b>, seleccionalo y escoge a uno de los territorios adyacentes al que se encuentra. Si un <b>Explorador</b> se encuentra un ejército enemigo explorando un nuevo territorio, existe una posibilidad de que lo eliminen. ",None
+9,NONE,,Tutorial8_SendingExplorer
+10,TUTORIAL_TEXT34,"Para establecer una <b>Ruta de comercio</b> con otra ciudad debes especificar qué recursos quieres comprar y vender cada día, dentro de las limitaciones de la oferta y la demanda.",None
+10,NONE,,Tutorial9_WorldMap_Vettona
+10,NONE,,Tutorial9_WorldMap_CommerceWindow
+10,TUTORIAL_TEXT105,"El carro que ves en el mapa del mundo es una representación visual que indica que existe una ruta comercial entre esos dos puntos. Ten en cuenta que las operaciones de compra venta se realizarán siempre al comienzo de un nuevo día, por eso es importante que vigiles el indicador de días arriba a la izquierda.",
+10,TUTORIAL_TEXT35,"Cuando recibas una entrega de recursos de comercio, éstos irán a parar a las <b>Puertas de la ciudad</b>. En este momento se realizará el cobro. Para que la operación tenga éxito, las <b>Puertas de la ciudad</b> deben contar con espacio disponible, y tus arcas con suficiente dinero para pagar la operación.",None
+10,NONE,,Tutorial9_CarriageArrival
+10,TUTORIAL_TEXT36,"Recuerda que puedes construir <color=#D1B770><b>Almacenes</b></color>, <color=#D1B770><b>Graneros</b></color> o <color=#D1B770><b>Armerías</b></color> cerca del de la entrada, para asegurarte despejar así sus reservas.",
+10,NONE,,Tutorial9_BuidlingWarehouse_CityGate
+10,TUTORIAL_TEXT37,"Del mismo modo, para exportar recursos debes asegurarte de que  tengas suficiente cantidad de estos en los almacenados de tu ciudad. También, desde la sección de Comercio en la Ventana de gestión podrás escoger a partir de cuanta cantidad de un recurso concreto quieres que se permita exportar, para que no te quedes sin él.",None
+10,NONE,,Tutorial4_ManagementButton
+10,NONE,,Tutorial9_CityGates_Window
+11,TUTORIAL_TEXT38,La construcción de algunos edificios requiere recursos refinados. Tanto la madera como la piedra se pueden refinar para obtener un nuevo recurso de mayor calidad.,None
+11,TUTORIAL_TEXT39,"Construye un <b>Aserradero</b> y un <b>Taller de cantería</b> para genera ladrillos y tablones, que son necesarios para construir edificios más avanzados.",None
+11,NONE,,Tutorial10_Refinery
+11,TUTORIAL_TEXT40,Recuerda que los edificios de refinamiento deben estar cerca de los <b>Almacenes</b> con las materias primas. ,None
+11,NONE,,Tutorial10_WoodFromWarehouse
+11,TUTORIAL_TEXT102,"Y si quieres llevar un control de los recursos de tu ciudad, en la parte superior de la pantalla podrás ver la cantidad total que tienes de cada uno de ellos. Además, si presionas al botón con tres puntos, podrás escoger que recursos son los que se te muestren.",
+11,NONE,,Tutorial10_ResourcesTopBar
+12,TUTORIAL_TEXT41,"Los patricios son unos ciudadanos que no trabajan, pero aportan a la economía con sus impuestos.",None
+12,NONE,,Tutorial11_PatriciansHouses
+12,TUTORIAL_TEXT42,"Sus necesidades son mucho más elevadas que las de los plebeyos, y si no las satisfaces, la felicidad en el asentamiento descenderá, provocando que algunos lo abandonen.",None
+12,NONE,,Tutorial11_PatriciansHouses_Needs
+12,TUTORIAL_TEXT43,"Recuerda que la cantidad de impuestos que pagan afecta a su felicidad. Si subes los impuestos, recaudas más dinero, pero su felicidad disminuye. Pero, no olvides construir <color=#D1B770><b>Oficinas de impuestos</b></color>, que serán los edificios encargados de recaudar los impuestos.",None
+12,NONE,,Tutorial_TaxOffice
+12,TUTORIAL_TEXT99,Ten esto último en cuenta y asegúrate de que los patricios tengan edificios y actividades con las que entretenerse para aumentar su felicidad,None
+13,TUTORIAL_TEXT44,"Tus ciudadanos necesitan actividades de entretenimiento y edificios de servicios para distraerse y estar felices, sobre todo los patricios.",None
+13,NONE,,Tutorial12_Tavern
+13,TUTORIAL_TEXT45,"Además, debes vigilar la salud de la población y los <color=#D1B770><b>Consultas médicas</b></color> son un buen método para mantener a raya cualquier problema que pueda surgir.",None
+13,NONE,,Tutorial12_MedicCenter
+13,TUTORIAL_TEXT123,También tienes que tener en cuenta que los ciudadanos querrán entretenerse viendo espectáculos de vez en cuando y podremos ver esto en el tooltip del <color=#D1B770><b>Favor del pueblo</b></color>. ,None
+13,NONE,,Tutorial_EntertainmentIndicator
+13,TUTORIAL_TEXT124,"Satisfacer estos apetitos tendrá el beneficio de aumentar el favor del pueblo, por lo que puedes utilizarlo estratégicamente tras haber subido los impuestos o estar pasando por alguna crisis de popularidad entre ellos.",None
+13,TUTORIAL_TEXT81,"Para ello, por ejemplo, en el caso del <color=#D1B770><b>Teatro</b></color>, tendremos que entrenar a actores para que puedan realizar las funciones. Pasará lo mismo con los <color=#D1B770><b>Circo </b></color>y el <color=#D1B770><b>Circo Máximo</b></color>.",None
+13,NONE,,Tutorial22_BuildedActorColony
+13,TUTORIAL_TEXT125,"Una vez los tengas algunos entrenados, para realizar el espectáculo tendrás que exoger a dos de ellos en la vista de detalle del edificio y seleccionar celebrar evento.",None
+13,TUTORIAL_TEXT126,"Al final del día, lo que el pueblo quiere es pan y circo",
+13,NONE,,Tutorial22_TheaterWindow
+14,TUTORIAL_TEXT49,Es importante para un asentamiento tener la posibilidad de adorar a los dioses. Cada uno de ellos está enfocado a un aspecto de la vida y su favor puede otorgar un beneficio muy suculento.,None
+14,NONE,,Tutorial14_TopBar_Religion
+14,TUTORIAL_TEXT50,"Debes construir templos en honor a los dioses para aumentar su devoción. Además, puedes realizar sacrificios en su nombre para aumentar mucho más este indicador.",None
+14,NONE,,Tutorial14_Temples
+14,NONE,,Tutorial14_BuildingTemples
+14,TUTORIAL_TEXT51,"Pero recuerda que los dioses son arrogantes, por lo que adorar a uno de ellos, puede hacer que su rival se sienta celoso y castigue a tu asentamiento.",None
+14,NONE,,Tutorial14_Temples_Window
+14,TUTORIAL_TEXT52,"Además, explorando los mapas, encontrarás distintas reliquias que puedes ofrecer a los dioses para ganar su favor.",None
+14,TUTORIAL_TEXT103,"También, debes saber que podrás hacer una visita a los dioses en el mismísimo Panteón pulsando el botón de abajo a la derecha de la pantalla.",
+14,NONE,,Tutorial14_PantheonButton
+14,TUTORIAL_TEXT104,"Ahí podrás ver el estado que tienen cada uno pasando el cursor sobre ellos. Puede que estén enfadados y te espera un castigo inminente, o, por el contrario, pueden estar complacidos y se ofrecerán a bendecirte para favorecer a tu ciudad.",
+14,NONE,,Tutorial14_Pantheon
+15,TUTORIAL_TEXT47,"Tanto las casas de plebeyos, como las de patricios, tienen unas necesidades que has de satisfacer. Además, cumplir una serie de requisitos hace mejorar el nivel de las casas.",None
+15,TUTORIAL_TEXT122,"Cuanto más alto es el nivel de la vivienda, más ciudadanos caben en ellas. Y además, en el caso de los patricios, más impuestos pagarán.",None
+15,NONE,,Tutorial13_PatriciansNeeds
+15,TUTORIAL_TEXT48,"No sólo se trata de abastecer con diferentes tipos de comida, la apariencia también es importante. Asegurate de decorar los alrededores de las casas para hacer más deseable la zona.",None
+15,NONE,,Tutorial13_HousingWithGardens
+16,TUTORIAL_TEXT53,Para iniciar un enfrentamiento debes trasladar una legión al territorio en que se encuentra el enemigo. ,None
+16,NONE,,Tutorial15_SendingToBattle
+16,TUTORIAL_TEXT54,"Una vez escojas a qué tropa enfrentarte, se abre una ventana donde puedes ver la información de tus unidades y las del enemigo. Desde esta misma ventana puedes iniciar la batalla.",None
+16,NONE,,Tutorial15_BattleWindow
+17,TUTORIAL_TEXT55,"Para el combate, deberás definir formaciones de los distintos tipos de clases de soldados de los que dispones. El primer paso es seleccionar el tipo de soldados con los que vas a formar una unidad. ",None
+17,NONE,,Tutorial16_BattleSelectingTroop
+17,TUTORIAL_TEXT56,"Una vez que hayas escogido la clase de soldado, debes determinar la formación que adoptarán en el campo de batalla. Cuando comience la batalla avanzarán en linea recta hasta entablar contacto con el enemigo.",None
+17,NONE,,Tutorial16_BattlePlacingTroop
+17,TUTORIAL_TEXT57,Ten en cuenta que todas las unidades tienen fortalezas y debilidades. Así que evalua como ha colocado el enemigo sus tropas para diseñar formaciones antagonistas y ganar los lances entre unidades. ,None
+17,NONE,,Tutorial16_BattleRockPaperScissors
+17,TUTORIAL_TEXT58,"Los Centuriones son unidades especiales que proporcionarán una motivacion adicional a las tropas que estén cerca de ellos, haciéndolos más poderosos. ",None
+17,NONE,,Tutorial_PlacingCenturion
+17,TUTORIAL_TEXT130,"Por último, cuando termines la preparación en el campo de batalla puedes iniciar la contienda presionando el botón de iniciar batalla.",None
+17,NONE,,Tutorial16_StartBattle
+18,TUTORIAL_TEXT59,"Cuando en tu población hay gente plebeya desempleada, provocará un descontento haciendo que vayan a protestar a las puertas de la ciudad y bajará la felicidad",
+18,NONE,,Tutorial17_Unemployed
+18,TUTORIAL_TEXT60,"Si esta situación se mantiene, aumentará la criminalidad de la ciudad, pudiendo provocar robos, incendios o incluso muertes.",
+18,NONE,,Tutorial17_Riots
+18,TUTORIAL_TEXT61,"La forma más rápida de revertir esta situación, es hacer descender el número de desempleados de tu ciudad.",
+18,TUTORIAL_TEXT62,"Pero además, tener puestos con guardía pretoriana  por la ciudad, mitigará algunos de los problemas que puedan surgir de la alta criminalidad, pero no los solucionarán .",
+19,TUTORIAL_TEXT63,"El armamento es un recursos necesario para poder entrenar nuevos soldados. Tendremos 4 tipos distintos que serán la espada, escudo, arco y armadura. cada uno de ellos con su respectivo edificio de producción",
+19,NONE,,Tutorial18_BuildingBlacksmiths
+19,TUTORIAL_TEXT64,"Principalmente, para producir este amamento necesitaremos hierro así que tendremos extraerlo del entorno como hacemos con la piedra. Pero no solo será necesario hierro, nos hará falta algo de madera y tablosnes par alaguno de ellos",
+19,NONE,,Tutorial18_ExtractingIron
+19,TUTORIAL_TEXT65,"Por último, necesitaremos poder almacenar todo lo que produzcamos y estos recursos tendrán su propio edificio. Construye armerias cerca de los edificios de producción de armamento para poder alamacenar lo que produzcan",
+19,NONE,,Tutorial18_BuildingArmory
+20,TUTORIAL_TEXT66,"Cuando queramos que lleguen nuevos aspirantes a soldados, tendremos que construir <color=#D1B770><b>Barracones</b></color>.  Una vez lleguen algunos de estos, podremos asignarlos al entrenamiento que queramos.",
+20,NONE,,Tutorial19_BuildingBarrack
+20,TUTORIAL_TEXT67,"Simplemente tendremos que construir el edificio de dicho entrenamiento y asignar a la cantidad de soldados que queremos. Pero además, cada uno de los soldados que entrenaremos requerirá de un equipamiento y algunos recursos.",
+20,NONE,,Tutorial19_BuildingTraining
+20,NONE,,Tutorial19_TrainingDetail
+20,TUTORIAL_TEXT68,"Estos tienen una capacidad limitada, y además, los soldados tardan un tiempo en estar listos, por lo que si quieres aumentar el ritmo de generación de soldados tendrás que cosntruir más edificios de ese tipo.",
+20,NONE,,Tutorial19_Training
+20,TUTORIAL_TEXT69,"Una vez completado su entrenamiento los soldados quedarán a la espera de que los envías al <color=#D1B770><b>Mapa de la región</b></color>, dentro de una centuria. Pero no olvides entrenar centuriones ya que cada legión tendrá uno de ellos al mando, además de entrenar exploradores para descubrir el mapa y de soldados encargados de las defesnas de la ciudad.",
+21,TUTORIAL_TEXT70,"Para poder enviar tropas al mapa tendremos que dirigirnos a la vista del <color=#D1B770><b>Mapa de la región</b></color>. Una vez en esta vista, en la parte inferior de la pantalla veremos dos botones, uno de ellos para desplegar <color=#D1B770><b>Exploradores</b></color>  y el otro para <color=#D1B770><b>Centurias</b></color>.",
+21,NONE,,Tutorial20_ExplorerLegion_Buttons
+21,TUTORIAL_TEXT72,"Para el caso de los <color=#D1B770><b>Exploradores</b></color>, simplemente tendremos que tener entrenado a alguno soldado de este tipo y decidir en cual de los territorio que hemos descubierto, y que no tenga enemigos, queremos lo que desplegar.",
+21,NONE,,Tutorial20_PlacingExplorer
+21,TUTORIAL_TEXT73,"En el caso de las <color=#D1B770><b>Centurias</b></color>, primero necesitaremos al menos un <color=#D1B770><b>Decurión</b></color> para poder formarla. Una vez cumplamos con este requisito, podremos escoger que soldados conformarán esta <color=#D1B770><b>Centuria</b></color> y escogeremos el territorio donde desplegarlos, siguiendo el mismo criterio que el de los <color=#D1B770><b>Exploradores</b></color>.",
+21,NONE,,Tutorial20_PlacingTroops
+21,NONE,,Tutorial20_SelectingTroops
+21,TUTORIAL_TEXT137,"Además, debes saber que podrás reforzar las tropas ya desplegadas por el <color=#D1B770><b>Mapa de la región</b></color>. Si haces presionas el botón bajo la legión que quieres reforzar, podrás escoger que soldados añadirle para aumentar su poder militar.",
+21,NONE,,Tutorial20_ReinforceTroops
+22,TUTORIAL_TEXT74,Las reliquias son objetos poderosos que nos encontraremos explorando por el mapa.,
+22,NONE,,Tutorial21_RelicWindow
+22,TUTORIAL_TEXT75,Una vez las encontremos tendremos que decidir qué hacer con ellos. Podemos ofrecerlo a uno de los dioses de los que nos dé la posibilidad para aumentar el favor de este o incluso quedárnoslo para obtener un beneficio para nuestro asentamiento,
+22,NONE,,Tutorial21_RelicWindowOfferingToGods
+22,TUTORIAL_TEXT76,"Además, si queremos ganarnos el favor de algún dios de forma más rápida, siempre podemos realizar sacrificios en su favor. Solamente tenemos que seleccionar uno de los templos del dios, y desde su ventana de detalle escoger el sacrificio a realizar",
+22,NONE,,Tutorial21_TempleWindow_Sacrifices
+22,TUTORIAL_TEXT77,"Por último, también podrás visitar el olimpo, donde podrás ver directamente a los dioses. Podrás llegar, o haciendo zoom out desde la vista del mapa, o presionando el botón del olimpo que hay en la parte inferior derecha de la pantalla",
+22,NONE,,Tutorial21_OlympusButton 
+22,NONE,,Tutorial21_Olympus
+23,TUTORIAL_TEXT78,"Si vemos que nuestra felicidad está bajando y queremos aumentarla de golpe como solución momentánea, podemos celebrar festivales. Además, habrá dos tipos de festivales, uno más grande que el otro, cada uno con un coste.",
+23,NONE,,Tutorial22_FestivalWindow
+23,TUTORIAL_TEXT79,"Mientras se esté celebrando el festival, todos los trabajadores dejarán de producir y se dedicarán a hacer actividades de entretenimiento. Pero como hemos dicho, hará que la felicidad de nuestro asentamiento.",
+23,NONE,,Tutorial22_PeopleEntertaining
+23,TUTORIAL_TEXT80,"Además, tenemos la posibilidad de crear eventos especiales, como por ejemplo, funciones de teatro, peleas de gladiadores o carreras de cuadrigas.",
+23,TUTORIAL_TEXT81,"Para ello, por ejemplo, en el caso del teatro, tendremos que entrenar a actores para que puedan realizar las funciones. Pasará lo mismo con los gladiadores y los conductores de cuadrigas",
+23,NONE,,Tutorial22_BuildedActorColony
+23,NONE,,Tutorial22_TheaterPlay
+14,TUTORIAL_TEXT115,,None
+14,NONE,,Tutorial14_TopBar_Religion
+14,TUTORIAL_TEXT50,"Debes construir templos en honor a los dioses para aumentar su devoción. Además, puedes realizar sacrificios en su nombre para aumentar mucho más este indicador.",None
+14,NONE,,Tutorial14_Temples
+14,NONE,,Tutorial14_BuildingTemples
+14,TUTORIAL_TEXT51,"Pero recuerda que los dioses son arrogantes, por lo que adorar a uno de ellos, puede hacer que su rival se sienta celoso y castigue a tu asentamiento.",None
+14,NONE,,Tutorial14_Temples_Window
+14,TUTORIAL_TEXT52,"Además, explorando los mapas, encontrarás distintas reliquias que puedes ofrecer a los dioses para ganar su favor.",None
+14,TUTORIAL_TEXT103,"También, debes saber que podrás hacer una visita a los dioses en el mismísimo Panteón pulsando el botón de abajo a la derecha de la pantalla.",
+14,NONE,,Tutorial14_PantheonButton
+14,TUTORIAL_TEXT104,"Ahí podrás ver el estado que tienen cada uno pasando el cursor sobre ellos. Puede que estén enfadados y te espera un castigo inminente, o, por el contrario, pueden estar complacidos y se ofrecerán a bendecirte para favorecer a tu ciudad.",None
+14,NONE,,Tutorial14_Pantheon
+32,TUTORIAL_TEXT112,Es importante para un asentamiento tener la posibilidad de adorar a los dioses. Para ello será necesario construir templos en su honor. Cada uno de ellos está enfocado a un aspecto de la vida y su favor puede otorgar un beneficio muy suculento.,None
+32,NONE,,Tutorial14_Temples
+32,NONE,,Tutorial14_BuildingTemples
+32,TUTORIAL_TEXT113,Podrás realizarlos desde la ventana de detalle de los templos.,None
+32,NONE,,Tutorial_ReligionHolidays
+32,NONE,,Tutorial14_Temples_Window
+32,TUTORIAL_TEXT114,"Pero recuerda que mientras dure el festival se les dará descanso a los trabajadores dejarán de producir para celebrarlo, así que ten esto muy en cuenta.",None
+33,TUTORIAL_TEXT115,Cada uno de los dioses necesitará que construyas cierta cantidad de templos en su honor para poder ir ganándote su favor. ,None
+33,TUTORIAL_TEXT116,Toda esta información la podrás ver a través de la pestaña de <color=#D1B770><b>Religión </b></color> en la <color=#D1B770><b>Ventana de gestión</b></color>.,
+33,NONE,,Tutorial_ManagementGods
+33,TUTORIAL_TEXT51,"Pero recuerda que los dioses son arrogantes, por lo que adorar a uno de ellos, puede hacer que su rival se sienta celoso y castigue a tu asentamiento.",None
+33,TUTORIAL_TEXT103,"También, debes saber que podrás hacer una visita a los dioses en el mismísimo Panteón pulsando el botón de abajo a la derecha de la pantalla.",None
+33,NONE,,Tutorial14_PantheonButton
+33,NONE,,Tutorial14_Pantheon
+34,TUTORIAL_TEXT117,Estando en el <color=#D1B770>Panteón<b></b></color> podremos ver el estado de cada uno de los dioses con respecto a como lo estamos haciendo con ellos,None
+34,TUTORIAL_TEXT118,"Si colocas el cursor sobre ellos te mostrará la información de como de contentos están contigo, cuantos templos has construido en su honor y también cuantos días hace que no realizas un festival en su nombre",
+34,NONE,,Tutorial_GodsTooltip
+34,TUTORIAL_TEXT119,Cuando consigas contentar al máximo uno de los dioses serán capaces de bendecirte para darte algún beneficio. Cada uno de ellos será diferente y para recibirlo solo tendrás que seleccionar al dios que esté listo para ello. De esta forma bajará a tu ciudad para realizar la bendición.,None
+34,NONE,,Tutorial_GodsBlessing
+34,TUTORIAL_TEXT120,"Pero no lo olvides, también puedes enfadarlos, así que si alcanzas el máximo descontento, irán a tu ciudad para castigarte",None
+38,TUTORIAL_TEXT131,"Durante la batalla tus unidades se moverán de forma autónoma pero como general puedes dar ciertas ordenes que determinarán como se comportan. Con una unidad seleccionada, podrás realizar varias acciones",None
+38,TUTORIAL_TEXT132,"Puedes seleccionar un punto concreto del campo de batalla como destino para moverla allí. Una vez la unidad llegue al lugar,  seguirá buscando enemigos cercanos a los que atacar.",
+38,NONE,,Tutorial_MovingTroops
+38,TUTORIAL_TEXT133,"Seleccionando un punto y arrastrando, podremos determinar un área donde nuestras tropas esperarán en formación defensiva a la espera de un encuentro con enemigo.",None
+38,NONE,,Tutorial_DefensiveTroops
+38,TUTORIAL_TEXT134,"Por último, si seleccionamos una unidad enemiga, daremos la orden de que la ataquen, forzando ese enfrentamiento.",None
+38,NONE,,Tutorial_AttackTroopsV2
+38,TUTORIAL_TEXT135,"Durante la batalla verás la balanza de fuerzas entre las tuyas y las del enemigo, lo cual te puede indicar quien va ganando. El objetivo es eliminar al contrario o hacer que desista reduciendo al mínimo sus unidades.",None
+38,NONE,,Tutorial_ForceBalanceTroops
+38,TUTORIAL_TEXT136,"Si ves que no vas a ser capaz de acabar con el enemigo, siempre puedes retirarte. Esto hará que no pierdas todas las unidades. Más vale una retirada a tiempo que una derrota segura.",None
+38,NONE,,Tutorial_EscapeButton
+24,TUTORIAL_TEXT82,"De vez en cuando el enemigo decidirá intentar asaltar tu ciudad, provocando incendios allá por donde vayan. Tienes que tener planteadas unas buenas defensas si no quieres que causen estragos.",
+24,NONE,,Tutorial23_EnemiesAttackingBuildings
+24,TUTORIAL_TEXT128,"Debes plantear una buena estructura de defensas ya sea  como para cuando recibas ataques enemigos, ya que, mientras estés recibiendo un ataque no se te permitirá construir edificios.",
+24,NONE,,Tutorial23_EnemyBreakingWall
+24,TUTORIAL_TEXT84,"Por un lado, podremos construir elementos defensivos como <color=#D1B770><b>Murallas</b></color> y <color=#D1B770><b>Puertas de murallas</b></color>, lo que hará que dificulte al enemigo poder llegar a nuestro edificios. Pero no podemos confiar solo en ellas, ya que pueden destruirlas.",
+24,NONE,,Tutorial23_BuildingWall
+24,NONE,,Tutorial23_CityWithWalls
+24,TUTORIAL_TEXT85,Si queremos poder repeler los ataques vamos a necesitar <color=#D1B770><b>Guardias</b></color>. Estos serán entrenados como el resto de soldados pero no serán enviados al <color=#D1B770><b>Mapa de la región</b></color> si no que los tendremos en nuestro asentamiento.,
+24,TUTORIAL_TEXT86,"Una vez entrenados los podremos asignar a <color=#D1B770><b>Puestos de vigilancia</b></color> y a <color=#D1B770><b>Torre de vigilancia</b></color>, lo que nos permitirá combatir los soldados enemigos.",
+24,NONE,,Tutorial23_BuildingMenuDefense
+24,NONE,,Tutorial23_BuildedDefense
+24,TUTORIAL_TEXT87,No te olvides de que los <color=#D1B770><b>Guardias</b></color> no solo combatirá los ataques enemigos si no que mantendrá a raya la criminalidad de nuestro asentemiendo.,
+24,TUTORIAL_TEXT129,"Por último, debes saber que si en el <color=#D1B770><b>Mapa de la región</b></color> tienes algún territorio descubierto con enemigos, las probabilidades de ataque aumentarán. Y si consigues acabar con todos los enemigos del mapa el peligro cesará.",
+24,NONE,,Tutorial23_EnemyMap
