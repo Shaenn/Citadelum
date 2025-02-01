@@ -22,7 +22,7 @@ float,weightForEntertainmentUser,0.02
 float,weightForCartUser,2
 float,weightForNeedsMoreFoodIssue,0.25
 float,weightForNeedIsRequiredToKeepLevel,0.25
-int,TransportCartStockSize,20
+int,TransportCartStockSize,80
 float,femaleProbability,0.4
 float,darkVersionProbability,0.3
 float,orchardsVisualCycleDuration,120.0
