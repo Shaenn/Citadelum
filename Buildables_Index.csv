@@ -34,36 +34,36 @@ TempleCeres,BUILDABLE_NAME_21,BUILDABLE_DESC_21,,3,,280,0,0,0,40,0,,0,,8,,Más b
 TempleMarte,BUILDABLE_NAME_22,BUILDABLE_DESC_22,,3,,280,0,0,0,40,0,,0,,8,,Más bonito,16,TempleMarte,0,,0,,0,,,0,,,,None,0,,0,0,,3,,Marte,,TRUE
 TempleJupiter,BUILDABLE_NAME_23,BUILDABLE_DESC_23,,3,,280,0,0,0,40,0,,0,,8,,Más bonito,16,TempleJupiter,0,,0,,0,,,0,,,,None,0,,0,0,,3,,Jupiter,,TRUE
 TemplePluton,BUILDABLE_NAME_24,BUILDABLE_DESC_24,,3,,280,0,0,0,40,0,,0,,8,,Más bonito,16,TemplePluton,0,,0,,0,,,0,,,,None,0,,0,0,,3,,Pluton,,TRUE
-OrchardWheat,BUILDABLE_NAME_26,BUILDABLE_DESC_26,,1,,40,15,0,0,0,0,,4,,0,,,4,None,0,,-2,,0,,,80,Cereal,,,None,0,,50,12,,1,,None,,TRUE
-OrchardFlax,BUILDABLE_NAME_27,BUILDABLE_DESC_27,,4,,80,15,0,0,0,0,,4,,0,,,4,None,0,,-2,,0,,,80,Linen,,,None,0,,50,8,,1,,None,,TRUE
-OrchardCarrot,BUILDABLE_NAME_28,BUILDABLE_DESC_28,,2,,50,15,0,0,0,0,,4,,0,,,4,None,0,,-2,,0,,,80,Carrot,,,None,0,,50,8,,1,,None,,TRUE
-OrchardGrape,BUILDABLE_NAME_29,BUILDABLE_DESC_29,,2,,50,15,0,0,0,0,,4,,0,,,4,None,0,,-2,,0,,,80,Grape,,,None,0,,50,8,,1,,None,,TRUE
-OrchardOnion,BUILDABLE_NAME_30,BUILDABLE_DESC_30,,2,,50,15,0,0,0,0,,4,,0,,,4,None,0,,-2,,0,,,80,Onion,,,None,0,,50,8,,1,,None,,TRUE
-OrchardMelon,BUILDABLE_NAME_31,BUILDABLE_DESC_31,,2,,60,15,0,0,0,0,,4,,0,,,4,None,0,,-2,,0,,,80,Melon,,,None,0,,50,8,,1,,None,,TRUE
-OrchardCabbage,BUILDABLE_NAME_32,BUILDABLE_DESC_32,,2,,50,15,0,0,0,0,,4,,0,,,4,None,0,,-2,,0,,,80,Cabbage,,,None,0,,50,8,,1,,None,,TRUE
-OrchardMedicinalPlant,BUILDABLE_NAME_33,BUILDABLE_DESC_33,,3,,60,15,0,0,0,0,,4,,0,,,4,None,0,,-2,,0,,,80,Herb,,,None,0,,50,4,,1,,None,,TRUE
-FishingDock,BUILDABLE_NAME_34,BUILDABLE_DESC_34,,3,,110,0,20,50,0,0,,4,,0,,Más producción,4,None,0,,-2,,0,,,80,Fish,,,None,0,,100,5,,1,,None,,TRUE
-FarmPig,BUILDABLE_NAME_35,BUILDABLE_DESC_35,,4,,150,60,0,30,0,0,,4,,0,,Más producción,4,None,0,,-2,,0,,,10,Pig,,,Cereal,3,,80,2,,2,,None,,TRUE
-FarmChicken,BUILDABLE_NAME_36,BUILDABLE_DESC_36,,3,,150,50,0,30,0,0,,4,,0,,Más producción,4,None,0,,-2,,0,,,60,Egg,,,Cereal,3,,80,6,,2,,None,,TRUE
-FarmCow,BUILDABLE_NAME_37,BUILDABLE_DESC_37,,4,,150,60,0,30,0,0,,4,,0,,Más producción,4,None,0,,-2,,0,,,60,Milk,,,Cereal,3,,80,6,,2,,None,,TRUE
-WoodExtraction,BUILDABLE_NAME_38,BUILDABLE_DESC_38,,1,,40,0,0,0,0,0,,4,,0,,Más producción,4,WoodExtraction,0,,-2,,0,,,80,Wood,,,None,0,,50,6,,2,,None,,TRUE
-StoneExtraction,BUILDABLE_NAME_39,BUILDABLE_DESC_39,,1,,40,0,0,0,0,0,,4,,0,,Más producción,4,StoneExtraction,0,,-2,,0,,,80,Stone,,,None,0,,50,10,,2,,None,,TRUE
-IronExtraction,BUILDABLE_NAME_40,BUILDABLE_DESC_40,,1,,40,20,0,15,0,0,,4,,0,,Más producción,4,IronExtraction,0,,-2,,0,,,80,Iron,,,None,0,,75,6,,2,,None,,TRUE
-WoodRefinery,BUILDABLE_NAME_41,BUILDABLE_DESC_41,,2,,160,50,0,0,0,0,,4,,0,,Más producción,4,None,0,,-2,,0,,,60,Plank,,,Wood,2,,50,6,,3,,None,,TRUE
-StoneRefinery,BUILDABLE_NAME_42,BUILDABLE_DESC_42,,2,,160,0,0,50,0,0,,4,,0,,Más producción,4,None,0,,-2,,0,,,60,Brick,,,Stone,2,,50,6,,3,,None,,TRUE
-BlacksmithSword,BUILDABLE_NAME_43,BUILDABLE_DESC_43,,4,,220,0,0,0,25,30,,4,,0,,Más producción,4,None,0,,-2,,0,,,60,Gladius,,,Iron,2,,125,2,,3,,None,,TRUE
-BlacksmithArmor,BUILDABLE_NAME_96,BUILDABLE_DESC_96,,4,,220,0,0,0,25,30,,4,,0,,,4,None,0,,-2,,0,,,60,Armor,,,Iron,3,,125,2,,3,,None,,TRUE
-BlacksmithBow,BUILDABLE_NAME_97,BUILDABLE_DESC_97,,4,,220,0,0,0,25,30,,4,,0,,,4,None,0,,-2,,0,,,60,Bow,,,Wood,5,,125,2,,3,,None,,TRUE
-BlacksmithShield,BUILDABLE_NAME_98,BUILDABLE_DESC_98,,4,,220,0,0,0,25,30,,4,,0,,,4,None,0,,-2,,0,,,60,Shield,,,Plank,3,,125,2,,3,,None,,TRUE
-Bakery,BUILDABLE_NAME_44,BUILDABLE_DESC_44,,3,,180,0,15,0,20,,,4,,0,,Más producción,4,None,0,,-2,,0,,,60,Bread,,,Cereal,3,,100,4,,3,,None,,TRUE
-Butcher,BUILDABLE_NAME_45,BUILDABLE_DESC_45,,4,,160,0,20,0,0,0,,4,,0,,Más producción,4,None,0,,-2,,0,,,60,RationMeat,,,Pig,1,,100,4,,3,,None,,TRUE
-Fishmonger,BUILDABLE_NAME_46,BUILDABLE_DESC_46,,3,,160,0,20,0,0,0,,4,,0,,Más producción,4,None,0,,-2,,0,,,60,RationFish,,,Fish,1,,100,4,,3,,None,,TRUE
-Distillery,BUILDABLE_NAME_47,BUILDABLE_DESC_47,,2,,220,0,30,0,15,0,,4,,0,,Más producción,4,None,0,,-2,,0,,,60,Wine,,,Grape,4,,80,4,,3,,None,,TRUE
-Loom,BUILDABLE_NAME_48,BUILDABLE_DESC_48,,4,,180,0,20,0,0,0,,4,,0,,Más producción,4,None,0,,-2,,0,,,60,Cloth,,,Linen,10,,120,6,,3,,None,,TRUE
-FurnitureWorkshop,BUILDABLE_NAME_99,BUILDABLE_DESC_99,,6,,180,0,40,0,0,0,,4,,0,,,4,None,0,,-2,,0,,,60,Furniture,,,Plank,3,,120,3,,3,,None,,TRUE
-FoodWarehouse,BUILDABLE_NAME_49,BUILDABLE_DESC_49,,1,,80,10,0,0,0,0,,4,,0,,Más stock,8,FoodWarehouse,0,,-2,,2500,"Cereal, Fish,Herb, Bread, Pig, RationFish, RationMeat, Wine, Egg, Milk, Carrot, Grape, Melon, Onion, Cabbage, Cheese, Honey, Oil, Spices",,0,,,,None,0,,0,0,,3,,None,,TRUE
-ResourcesWarehouse,BUILDABLE_NAME_50,BUILDABLE_DESC_50,,1,,80,0,0,0,0,0,,4,,0,,Más stock,8,ResourcesWarehouse,0,,-2,,2500,"Iron, Linen, Stone, Wood, Brick, Cloth, Plank, Skin, Ceramic, Ivory, Marble, Papyrus, Silk, Furniture",,0,,,,None,0,,0,0,,3,,None,,TRUE
-Armory,BUILDABLE_NAME_51,BUILDABLE_DESC_51,,4,,140,0,0,0,30,20,,4,,0,,Más stock,8,Armory,0,,-2,,1500,"Armor,Gladius,Bow, Shield",,0,,,,None,0,,0,0,,3,,None,,TRUE
+OrchardWheat,BUILDABLE_NAME_26,BUILDABLE_DESC_26,,1,,40,15,0,0,0,0,,4,,0,,,4,None,0,,-2,,0,,,80,Cereal,,,None,0,,10,10,,1,,None,,TRUE
+OrchardFlax,BUILDABLE_NAME_27,BUILDABLE_DESC_27,,4,,80,15,0,0,0,0,,4,,0,,,4,None,0,,-2,,0,,,80,Linen,,,None,0,,10,10,,1,,None,,TRUE
+OrchardCarrot,BUILDABLE_NAME_28,BUILDABLE_DESC_28,,2,,50,15,0,0,0,0,,4,,0,,,4,None,0,,-2,,0,,,80,Carrot,,,None,0,,10,10,,1,,None,,TRUE
+OrchardGrape,BUILDABLE_NAME_29,BUILDABLE_DESC_29,,2,,50,15,0,0,0,0,,4,,0,,,4,None,0,,-2,,0,,,80,Grape,,,None,0,,10,10,,1,,None,,TRUE
+OrchardOnion,BUILDABLE_NAME_30,BUILDABLE_DESC_30,,2,,50,15,0,0,0,0,,4,,0,,,4,None,0,,-2,,0,,,80,Onion,,,None,0,,10,10,,1,,None,,TRUE
+OrchardMelon,BUILDABLE_NAME_31,BUILDABLE_DESC_31,,2,,60,15,0,0,0,0,,4,,0,,,4,None,0,,-2,,0,,,80,Melon,,,None,0,,10,10,,1,,None,,TRUE
+OrchardCabbage,BUILDABLE_NAME_32,BUILDABLE_DESC_32,,2,,50,15,0,0,0,0,,4,,0,,,4,None,0,,-2,,0,,,80,Cabbage,,,None,0,,10,10,,1,,None,,TRUE
+OrchardMedicinalPlant,BUILDABLE_NAME_33,BUILDABLE_DESC_33,,3,,60,15,0,0,0,0,,4,,0,,,4,None,0,,-2,,0,,,80,Herb,,,None,0,,10,10,,1,,None,,TRUE
+FishingDock,BUILDABLE_NAME_34,BUILDABLE_DESC_34,,3,,110,0,20,50,0,0,,4,,0,,Más producción,4,None,0,,-2,,0,,,80,Fish,,,None,0,,10,10,,1,,None,,TRUE
+FarmPig,BUILDABLE_NAME_35,BUILDABLE_DESC_35,,4,,150,60,0,30,0,0,,4,,0,,Más producción,4,None,0,,-2,,0,,,80,Pig,,,Cereal,3,,10,10,,2,,None,,TRUE
+FarmChicken,BUILDABLE_NAME_36,BUILDABLE_DESC_36,,3,,150,50,0,30,0,0,,4,,0,,Más producción,4,None,0,,-2,,0,,,60,Egg,,,Cereal,3,,10,10,,2,,None,,TRUE
+FarmCow,BUILDABLE_NAME_37,BUILDABLE_DESC_37,,4,,150,60,0,30,0,0,,4,,0,,Más producción,4,None,0,,-2,,0,,,60,Milk,,,Cereal,3,,10,10,,2,,None,,TRUE
+WoodExtraction,BUILDABLE_NAME_38,BUILDABLE_DESC_38,,1,,40,0,0,0,0,0,,4,,0,,Más producción,4,WoodExtraction,0,,-2,,0,,,80,Wood,,,None,0,,10,10,,2,,None,,TRUE
+StoneExtraction,BUILDABLE_NAME_39,BUILDABLE_DESC_39,,1,,40,0,0,0,0,0,,4,,0,,Más producción,4,StoneExtraction,0,,-2,,0,,,80,Stone,,,None,0,,10,10,,2,,None,,TRUE
+IronExtraction,BUILDABLE_NAME_40,BUILDABLE_DESC_40,,1,,40,20,0,15,0,0,,4,,0,,Más producción,4,IronExtraction,0,,-2,,0,,,80,Iron,,,None,0,,10,10,,2,,None,,TRUE
+WoodRefinery,BUILDABLE_NAME_41,BUILDABLE_DESC_41,,2,,160,50,0,0,0,0,,4,,0,,Más producción,4,None,0,,-2,,0,,,60,Plank,,,Wood,2,,10,10,,3,,None,,TRUE
+StoneRefinery,BUILDABLE_NAME_42,BUILDABLE_DESC_42,,2,,160,0,0,50,0,0,,4,,0,,Más producción,4,None,0,,-2,,0,,,60,Brick,,,Stone,2,,10,10,,3,,None,,TRUE
+BlacksmithSword,BUILDABLE_NAME_43,BUILDABLE_DESC_43,,4,,220,0,0,0,25,30,,4,,0,,Más producción,4,None,0,,-2,,0,,,60,Gladius,,,Iron,2,,10,10,,3,,None,,TRUE
+BlacksmithArmor,BUILDABLE_NAME_96,BUILDABLE_DESC_96,,4,,220,0,0,0,25,30,,4,,0,,,4,None,0,,-2,,0,,,60,Armor,,,Iron,3,,10,10,,3,,None,,TRUE
+BlacksmithBow,BUILDABLE_NAME_97,BUILDABLE_DESC_97,,4,,220,0,0,0,25,30,,4,,0,,,4,None,0,,-2,,0,,,60,Bow,,,Wood,5,,10,10,,3,,None,,TRUE
+BlacksmithShield,BUILDABLE_NAME_98,BUILDABLE_DESC_98,,4,,220,0,0,0,25,30,,4,,0,,,4,None,0,,-2,,0,,,60,Shield,,,Plank,3,,10,10,,3,,None,,TRUE
+Bakery,BUILDABLE_NAME_44,BUILDABLE_DESC_44,,3,,180,0,15,0,20,,,4,,0,,Más producción,4,None,0,,-2,,0,,,60,Bread,,,Cereal,3,,10,10,,3,,None,,TRUE
+Butcher,BUILDABLE_NAME_45,BUILDABLE_DESC_45,,4,,160,0,20,0,0,0,,4,,0,,Más producción,4,None,0,,-2,,0,,,60,RationMeat,,,Pig,1,,10,10,,3,,None,,TRUE
+Fishmonger,BUILDABLE_NAME_46,BUILDABLE_DESC_46,,3,,160,0,20,0,0,0,,4,,0,,Más producción,4,None,0,,-2,,0,,,60,RationFish,,,Fish,1,,10,10,,3,,None,,TRUE
+Distillery,BUILDABLE_NAME_47,BUILDABLE_DESC_47,,2,,220,0,30,0,15,0,,4,,0,,Más producción,4,None,0,,-2,,0,,,60,Wine,,,Grape,4,,10,10,,3,,None,,TRUE
+Loom,BUILDABLE_NAME_48,BUILDABLE_DESC_48,,4,,180,0,20,0,0,0,,4,,0,,Más producción,4,None,0,,-2,,0,,,60,Cloth,,,Linen,10,,10,10,,3,,None,,TRUE
+FurnitureWorkshop,BUILDABLE_NAME_99,BUILDABLE_DESC_99,,6,,180,0,40,0,0,0,,4,,0,,,4,None,0,,-2,,0,,,60,Furniture,,,Plank,3,,10,10,,3,,None,,TRUE
+FoodWarehouse,BUILDABLE_NAME_49,BUILDABLE_DESC_49,,1,,80,10,0,0,0,0,,8,,0,,Más stock,8,FoodWarehouse,0,,-2,,25000,"Cereal, Fish,Herb, Bread, Pig, RationFish, RationMeat, Wine, Egg, Milk, Carrot, Grape, Melon, Onion, Cabbage, Cheese, Honey, Oil, Spices",,0,,,,None,0,,0,0,,3,,None,,TRUE
+ResourcesWarehouse,BUILDABLE_NAME_50,BUILDABLE_DESC_50,,1,,80,0,0,0,0,0,,8,,0,,Más stock,8,ResourcesWarehouse,0,,-2,,25000,"Iron, Linen, Stone, Wood, Brick, Cloth, Plank, Skin, Ceramic, Ivory, Marble, Papyrus, Silk, Furniture",,0,,,,None,0,,0,0,,3,,None,,TRUE
+Armory,BUILDABLE_NAME_51,BUILDABLE_DESC_51,,4,,140,0,0,0,30,20,,4,,0,,Más stock,8,Armory,0,,-2,,15000,"Armor,Gladius,Bow, Shield",,0,,,,None,0,,0,0,,3,,None,,TRUE
 TradingPost,BUILDABLE_NAME_52,BUILDABLE_DESC_52,,1,,0,0,0,0,0,0,,0,,0,,Más stock,12,None,0,,0,,5000,"Iron, Stone, Wood, Egg, Milk, Linen, Cereal, Fish, Grape, Herb, Carrot, Melon, Onion, Cabbage, Pig, Furniture, Armor, Bread, Brick, Cloth, Plank, RationFish, RationMeat, Shield, Skin, Bow, Gladius, Wine, Ceramic, Cheese, Honey, Ivory, Marble, Oil, Papyrus, Silk, Spices,",,0,,,,None,0,,0,0,,3,,None,,FALSE
 Barrack,BUILDABLE_NAME_95,BUILDABLE_DESC_95,,4,,480,0,30,0,0,0,,0,,7,,,0,None,0,,-4,,0,,,0,,,,None,0,,0,0,,5,,None,,FALSE
 InfantryTraining,BUILDABLE_NAME_53,BUILDABLE_DESC_53,,4,,240,0,20,0,15,0,,4,,0,,Más producción,0,None,0,,-4,,0,,,0,,,,None,0,,0,0,,3,,None,,FALSE
